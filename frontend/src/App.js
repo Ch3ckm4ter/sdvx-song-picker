@@ -1,26 +1,54 @@
 import React, { useState } from 'react';
 import './App.css';
+// ▼ 백엔드 없이 직접 데이터를 가져옵니다.
+import songsData from './data.json'; 
 
 function App() {
   const [chart, setChart] = useState(null);
   const [loading, setLoading] = useState(false);
 
-  const fetchRandomChart = async () => {
+  // ▼ 서버 요청 대신 브라우저에서 직접 계산하는 함수
+  const fetchRandomChart = () => {
     setLoading(true);
-    try {
-      const response = await fetch('http://localhost:5000/api/random');
-      const data = await response.json();
-      
-      if (data.error) {
-        alert(data.error);
-      } else {
-        setChart(data);
+    
+    // 로딩 효과를 주기 위해 약간의 지연 시간(0.3초) 추가
+    setTimeout(() => {
+      const MIN_LEVEL = 16;
+      const MAX_LEVEL = 20;
+      const validCharts = [];
+
+      songsData.forEach(song => {
+        if (!song.levels) return;
+        song.levels.forEach(chartData => {
+          if (chartData.level >= MIN_LEVEL && chartData.level <= MAX_LEVEL) {
+            validCharts.push({
+              id: song.songIdx,
+              title: song.songName,
+              artist: song.artist,
+              date: song.dateString,
+              image: song.imageUrl,
+              difficulty: chartData.difficulty,
+              level: chartData.level,
+              censored: song.censored,
+              unlock: song.unlock
+            });
+          }
+        });
+      });
+
+      if (validCharts.length === 0) {
+        alert("해당 레벨 범위의 곡이 없습니다.");
+        setLoading(false);
+        return;
       }
-    } catch (error) {
-      console.error("Error:", error);
-      alert("서버 연결 실패");
-    }
-    setLoading(false);
+
+      // 랜덤 뽑기
+      const randomIndex = Math.floor(Math.random() * validCharts.length);
+      const selectedChart = validCharts[randomIndex];
+
+      setChart(selectedChart);
+      setLoading(false);
+    }, 300); 
   };
 
   const getDifficultyClass = (difficulty) => {
@@ -57,7 +85,6 @@ function App() {
           )}
         </div>
 
-        {/* ▼▼▼ 위치 이동됨: 자켓 프레임 밖으로 나옴 ▼▼▼ */}
         {chart && (
           <div className={`level-badge ${getDifficultyClass(chart.difficulty)}`}>
             <span className="diff-name">{chart.difficulty}</span>
