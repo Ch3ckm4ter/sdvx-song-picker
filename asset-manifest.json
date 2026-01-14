@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/sdvx-song-picker/static/css/main.9284dd3d.css",
-    "main.js": "/sdvx-song-picker/static/js/main.62375be5.js",
+    "main.js": "/sdvx-song-picker/static/js/main.7e41088a.js",
     "static/js/453.20359781.chunk.js": "/sdvx-song-picker/static/js/453.20359781.chunk.js",
     "index.html": "/sdvx-song-picker/index.html",
     "main.9284dd3d.css.map": "/sdvx-song-picker/static/css/main.9284dd3d.css.map",
-    "main.62375be5.js.map": "/sdvx-song-picker/static/js/main.62375be5.js.map",
+    "main.7e41088a.js.map": "/sdvx-song-picker/static/js/main.7e41088a.js.map",
     "453.20359781.chunk.js.map": "/sdvx-song-picker/static/js/453.20359781.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9284dd3d.css",
-    "static/js/main.62375be5.js"
+    "static/js/main.7e41088a.js"
   ]
 }
