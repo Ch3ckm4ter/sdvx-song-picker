@@ -2,72 +2,85 @@
    기본 배경 및 폰트 설정
    ========================================= */
 body {
-  background-color: #121212; /* 다크 모드 배경 */
-  color: #ffffff;            /* 기본 글씨색 흰색 */
+  background-color: #121212;
+  color: #ffffff;
   margin: 0;
   font-family: 'Verdana', sans-serif;
   -webkit-font-smoothing: antialiased;
+  overflow-x: hidden; /* 가로 스크롤 방지 */
 }
 
 .app-container {
   display: flex;
   justify-content: center;
   align-items: center;
-  min-height: 100vh; /* 화면 전체 높이 사용 */
-  padding: 20px;
+  min-height: 100vh;
+  padding: 10px; /* 모바일 여백 */
   box-sizing: border-box;
 }
 
 .sdvx-interface {
   width: 100%;
-  max-width: 400px; /* PC에서도 너무 퍼지지 않게 제한 */
-  text-align: center;
+  max-width: 500px; /* PC에서는 더 넓게 잡기 */
   display: flex;
   flex-direction: column;
-  align-items: center; /* 모든 요소 가운데 정렬 */
+  align-items: center;
 }
 
 /* =========================================
-   로고 및 헤더
+   로고
    ========================================= */
 .logo {
-  font-size: 1.8rem;
+  font-size: 2.2rem;
   font-weight: 800;
-  color: #ff00cc; /* SDVX 핑크 */
-  text-shadow: 0 0 10px rgba(255, 0, 204, 0.7);
-  margin-bottom: 20px;
+  
+  color: #ffffff; /* ★ 글자색을 흰색으로 변경 */
+  text-align: center; /* ★ 텍스트 중앙 정렬 명시 */
+  
+  text-shadow: 0 0 15px rgba(255, 0, 204, 0.6); /* 네온 효과는 핑크색 유지 (예쁨) */
+  margin-bottom: 25px;
+  letter-spacing: 2px;
+  
+  /* 줄바꿈이 일어날 경우를 대비한 설정 */
+  word-break: keep-all;
+  line-height: 1.2;
 }
 
 /* =========================================
-   [핵심] 자켓 이미지 틀 (크기 고정)
-   레이아웃 흔들림 방지를 위해 픽셀로 고정합니다.
+   [핵심] 자켓 이미지 틀 (확대됨)
+   280px -> 310px 로 확대
    ========================================= */
 .jacket-frame {
-  width: 280px;  /* ★ 가로 고정 */
-  height: 280px; /* ★ 세로 고정 (정사각형) */
+  /* ▼ 기본 크기를 310px로 확대 */
+  width: 310px;
+  height: 310px;
   
-  margin: 0 auto 20px auto; /* 중앙 정렬 */
+  /* ▼ 모바일 안전장치: 화면이 310px보다 작으면 화면의 90%로 줄어듬 */
+  max-width: 90vw;
+  max-height: 90vw;
+  
+  margin: 0 auto 25px auto;
   
   border: 4px solid #ffffff;
-  box-shadow: 0 0 15px rgba(255, 0, 255, 0.5); /* 네온 효과 */
-  background-color: #000000; /* 로딩 중일 때 검은 배경 */
+  box-shadow: 0 0 20px rgba(255, 0, 255, 0.4);
+  background-color: #000;
   
   display: flex;
   align-items: center;
   justify-content: center;
   overflow: hidden;
-  position: relative; /* 내부 요소 위치 잡기용 */
+  position: relative;
 }
 
 .jacket-img {
   width: 100%;
   height: 100%;
-  object-fit: cover; /* 이미지가 찌그러지지 않고 꽉 참 */
+  object-fit: cover;
   display: block;
 }
 
-/* 로딩 중이거나 대기 상태일 때 텍스트 */
-.placeholder, .loading {
+/* 로딩 애니메이션 */
+.placeholder {
   font-size: 1.5rem;
   font-weight: bold;
   color: #555;
@@ -81,86 +94,97 @@ body {
 }
 
 /* =========================================
-   난이도 배지
+   난이도 배지 (확대됨 + 그라데이션)
    ========================================= */
 .level-badge {
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  gap: 10px;
   
-  padding: 5px 20px;
+  /* 크기 확대 */
+  padding: 8px 30px; 
   border-radius: 50px;
-  margin-bottom: 15px;
+  margin-bottom: 20px;
   
-  font-weight: bold;
-  font-size: 1.1rem;
-  box-shadow: 0 2px 5px rgba(0,0,0,0.5);
+  font-weight: 900;
+  font-size: 1.4rem; /* 글자 크기 확대 */
+  
+  color: white;
+  text-shadow: 0 1px 3px rgba(0, 0, 0, 0.6);
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  box-shadow: 0 4px 10px rgba(0,0,0,0.4);
 }
 
-/* 난이도별 색상 (SDVX 테마) */
-.diff-nov { background-color: #a872ff; color: white; } /* NOVICE */
-.diff-adv { background-color: #ffe600; color: black; } /* ADVANCED */
-.diff-exh { background-color: #ff0048; color: white; } /* EXHAUST */
-.diff-mxm { background-color: #ffffff; color: black; border: 2px solid #ccc; } /* MAXIMUM */
-.diff-inf { 
-  background: linear-gradient(45deg, #ff00cc, #3333ff); /* INF/GRV/HVN 등 */
-  color: white; 
-}
+/* 난이도별 색상 (그라데이션) */
+.diff-nov { background: linear-gradient(135deg, #662D8C 0%, #ED1E79 100%); }
+.diff-adv { background: linear-gradient(135deg, #F09819 0%, #EDDE5D 100%); }
+.diff-exh { background: linear-gradient(135deg, #b30c1d 0%, #ef473a 100%); }
+.diff-mxm { background: linear-gradient(135deg, #2c3e50 0%, #bdc3c7 100%); }
+.diff-inf { background: linear-gradient(135deg, #aa0ae9 0%, #e95fe9 100%); }
+.diff-grv { background: linear-gradient(135deg, #471d04 0%, #e4954c 100%); }
+.diff-hvn { background: linear-gradient(135deg, #023449 0%, #04aef7 100%); }
+.diff-vvd { background: linear-gradient(135deg, #940665 0%, #eb05b9 100%); }
+.diff-xcd { background: linear-gradient(135deg, #210b72 0%, #0c9edd 100%); }
+.diff-ult { background: linear-gradient(135deg, #756a07 0%, #e6e33b 100%); }
+
 
 /* =========================================
-   [핵심] 정보 패널 (텍스트 줄바꿈 처리)
+   정보 패널 (확대됨)
    ========================================= */
 .info-panel {
   width: 100%;
-  max-width: 280px; /* ★ 자켓 크기와 동일하게 제한 (버튼 밀림 방지) */
-  margin: 0 auto 25px auto;
-  min-height: 80px; /* 내용이 없어도 최소 높이 유지 */
+  max-width: 310px; /* 자켓 크기에 맞춤 */
+  margin: 0 auto 30px auto;
+  text-align: center;
+  min-height: 100px; /* 높이 확보 */
 }
 
 .song-title {
-  font-size: 1.3rem;
-  margin: 0 0 8px 0;
+  font-size: 1.6rem; /* 제목 크기 확대 */
+  font-weight: bold;
+  margin: 0 0 10px 0;
   
-  /* 긴 제목 줄바꿈 설정 */
+  /* 긴 제목 줄바꿈 */
   white-space: normal;
   word-wrap: break-word;
-  word-break: keep-all; /* 한글 단어 단위 끊기 */
+  word-break: keep-all;
   line-height: 1.3;
 }
 
 .artist-name {
-  font-size: 0.95rem;
-  color: #bbbbbb;
-  margin: 0 0 5px 0;
+  font-size: 1.1rem; /* 가수 이름 확대 */
+  color: #ccc;
+  margin: 0 0 8px 0;
   word-wrap: break-word;
 }
 
-.unlock-info, .date-added {
-  font-size: 0.8rem;
-  color: #666;
-  margin: 2px 0;
+.unlock-info {
+  font-size: 0.9rem;
+  color: #ffcc00; /* 해금 정보 강조색 */
+  margin-top: 5px;
 }
 
 /* =========================================
-   게임 시작 버튼
+   게임 시작 버튼 (확대됨)
    ========================================= */
 .start-btn {
   width: 100%;
-  max-width: 280px; /* 자켓 크기에 맞춤 */
-  height: 60px;
+  max-width: 310px; /* 자켓 크기에 맞춤 */
+  height: 75px;     /* 버튼 높이 확대 */
   
-  background-color: #ff00cc;
+  background: linear-gradient(90deg, #ff00cc, #3333ff); /* 버튼도 그라데이션 */
   color: white;
   
   border: none;
-  font-size: 1.5rem;
+  font-size: 1.8rem; /* 버튼 글씨 확대 */
   font-weight: 900;
   cursor: pointer;
   
-  clip-path: polygon(10px 0, 100% 0, 100% calc(100% - 10px), calc(100% - 10px) 100%, 0 100%, 0 10px);
-  transition: transform 0.1s, background-color 0.2s;
-  box-shadow: 0 4px 15px rgba(255, 0, 204, 0.4);
+  /* SDVX 스타일 사선 컷팅 */
+  clip-path: polygon(15px 0, 100% 0, 100% calc(100% - 15px), calc(100% - 15px) 100%, 0 100%, 0 15px);
+  
+  transition: transform 0.1s, filter 0.2s;
+  box-shadow: 0 5px 20px rgba(255, 0, 204, 0.4);
 }
 
 .start-btn:active {
@@ -168,7 +192,7 @@ body {
 }
 
 .start-btn:disabled {
-  background-color: #333;
+  background: #333;
   color: #777;
   cursor: not-allowed;
   box-shadow: none;

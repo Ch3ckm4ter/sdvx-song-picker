@@ -69,7 +69,7 @@ function App() {
   return (
     <div className="app-container">
       <div className="sdvx-interface">
-        <h1 className="logo">SDVX LEVEL 16~20 PICKER</h1>
+        <h1 className="logo">SDVX LEVEL 16-20 PICKER</h1>
         
         <div className="jacket-frame">
           {loading ? (
@@ -87,8 +87,7 @@ function App() {
 
         {chart && (
           <div className={`level-badge ${getDifficultyClass(chart.difficulty)}`}>
-            <span className="diff-name">{chart.difficulty}</span>
-            <span className="diff-level">{chart.level}</span>
+            {chart.difficulty} {chart.level}
           </div>
         )}
 
