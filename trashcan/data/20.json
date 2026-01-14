@@ -1,0 +1,1452 @@
+[
+    {
+        "songIdx": 1338,
+        "songName": "モザイクロール",
+        "artist": "DECO*27",
+        "dateString": "2019-01-18",
+        "imageUrl": "https://sdvx.vsfe.me/static/img/1338_mosaicroll_deco27/1338_1_b.webp",
+        "levels": [
+            {
+                "level": 3,
+                "difficulty": "NOVICE"
+            },
+            {
+                "level": 10,
+                "difficulty": "ADVANCED"
+            },
+            {
+                "level": 14,
+                "difficulty": "EXHAUST"
+            },
+            {
+                "level": 16,
+                "difficulty": "MAXIMUM"
+            }
+        ],
+        "censored": false,
+        "eac": false,
+        "unlock": null,
+        "konasutePack": null
+    },
+    {
+        "songIdx": 1341,
+        "songName": "ゴーストルール",
+        "artist": "DECO*27",
+        "dateString": "2019-01-18",
+        "imageUrl": "https://sdvx.vsfe.me/static/img/1341_ghostrule_deco27/1341_1_b.webp",
+        "levels": [
+            {
+                "level": 4,
+                "difficulty": "NOVICE"
+            },
+            {
+                "level": 11,
+                "difficulty": "ADVANCED"
+            },
+            {
+                "level": 15,
+                "difficulty": "EXHAUST"
+            },
+            {
+                "level": 17,
+                "difficulty": "MAXIMUM"
+            }
+        ],
+        "censored": false,
+        "eac": false,
+        "unlock": null,
+        "konasutePack": null
+    },
+    {
+        "songIdx": 1282,
+        "songName": "She Turns Me On",
+        "artist": "BEMANI Sound Team \"Sota Fujimori\"",
+        "dateString": "2018-12-27",
+        "imageUrl": "https://sdvx.vsfe.me/static/img/1282_sheturnsmeon_sotafujimori/1282_1_b.webp",
+        "levels": [
+            {
+                "level": 6,
+                "difficulty": "NOVICE"
+            },
+            {
+                "level": 13,
+                "difficulty": "ADVANCED"
+            },
+            {
+                "level": 15,
+                "difficulty": "EXHAUST"
+            },
+            {
+                "level": 18,
+                "difficulty": "GRAVITY"
+            }
+        ],
+        "censored": false,
+        "eac": false,
+        "unlock": null,
+        "konasutePack": null
+    },
+    {
+        "songIdx": 1300,
+        "songName": "REDO the NIGHT",
+        "artist": "岸田教団＆THE明星ロケッツ",
+        "dateString": "2018-12-27",
+        "imageUrl": "https://sdvx.vsfe.me/static/img/1300_redothenight_kiishidakyodan/1300_1_b.webp",
+        "levels": [
+            {
+                "level": 6,
+                "difficulty": "NOVICE"
+            },
+            {
+                "level": 12,
+                "difficulty": "ADVANCED"
+            },
+            {
+                "level": 15,
+                "difficulty": "EXHAUST"
+            },
+            {
+                "level": 18,
+                "difficulty": "GRAVITY"
+            }
+        ],
+        "censored": false,
+        "eac": false,
+        "unlock": null,
+        "konasutePack": null
+    },
+    {
+        "songIdx": 1301,
+        "songName": "ALTONA",
+        "artist": "SOUND HOLIC Vs. SWING HOLIC",
+        "dateString": "2018-12-27",
+        "imageUrl": "https://sdvx.vsfe.me/static/img/1301_altona_soundholic/1301_1_b.webp",
+        "levels": [
+            {
+                "level": 6,
+                "difficulty": "NOVICE"
+            },
+            {
+                "level": 12,
+                "difficulty": "ADVANCED"
+            },
+            {
+                "level": 15,
+                "difficulty": "EXHAUST"
+            },
+            {
+                "level": 18,
+                "difficulty": "GRAVITY"
+            }
+        ],
+        "censored": false,
+        "eac": false,
+        "unlock": null,
+        "konasutePack": null
+    },
+    {
+        "songIdx": 1302,
+        "songName": "真っ白な靴",
+        "artist": "豚乙女",
+        "dateString": "2018-12-27",
+        "imageUrl": "https://sdvx.vsfe.me/static/img/1302_masshironakutsu_butaotome/1302_1_b.webp",
+        "levels": [
+            {
+                "level": 6,
+                "difficulty": "NOVICE"
+            },
+            {
+                "level": 13,
+                "difficulty": "ADVANCED"
+            },
+            {
+                "level": 16,
+                "difficulty": "EXHAUST"
+            },
+            {
+                "level": 18,
+                "difficulty": "GRAVITY"
+            }
+        ],
+        "censored": false,
+        "eac": false,
+        "unlock": null,
+        "konasutePack": null
+    },
+    {
+        "songIdx": 1335,
+        "songName": "MODEL FT4",
+        "artist": "BEMANI Sound Team \"Mutsuhiko Izumi\"",
+        "dateString": "2018-12-20",
+        "imageUrl": "https://sdvx.vsfe.me/static/img/1335_modelft4_izumi/1335_1_b.webp",
+        "levels": [
+            {
+                "level": 6,
+                "difficulty": "NOVICE"
+            },
+            {
+                "level": 13,
+                "difficulty": "ADVANCED"
+            },
+            {
+                "level": 16,
+                "difficulty": "EXHAUST"
+            },
+            {
+                "level": 18,
+                "difficulty": "MAXIMUM"
+            }
+        ],
+        "censored": false,
+        "eac": false,
+        "unlock": null,
+        "konasutePack": null
+    },
+    {
+        "songIdx": 1336,
+        "songName": "Yum Yum Sweetie",
+        "artist": "t+pazolite",
+        "dateString": "2018-12-13",
+        "imageUrl": "https://sdvx.vsfe.me/static/img/1336_yumyumsweetie_tpazolite/1336_1_b.webp",
+        "levels": [
+            {
+                "level": 6,
+                "difficulty": "NOVICE"
+            },
+            {
+                "level": 13,
+                "difficulty": "ADVANCED"
+            },
+            {
+                "level": 15,
+                "difficulty": "EXHAUST"
+            },
+            {
+                "level": 18,
+                "difficulty": "MAXIMUM"
+            }
+        ],
+        "censored": false,
+        "eac": false,
+        "unlock": null,
+        "konasutePack": null
+    },
+    {
+        "songIdx": 935,
+        "songName": "Twilight ∞ nighT",
+        "artist": "ひとしずく×やま△",
+        "dateString": "2018-12-06",
+        "imageUrl": "https://sdvx.vsfe.me/static/img/0935_twilightnight_hitoshizuku/0935_1_b.webp",
+        "levels": [
+            {
+                "level": 3,
+                "difficulty": "NOVICE"
+            },
+            {
+                "level": 8,
+                "difficulty": "ADVANCED"
+            },
+            {
+                "level": 13,
+                "difficulty": "EXHAUST"
+            },
+            {
+                "level": 17,
+                "difficulty": "MAXIMUM"
+            }
+        ],
+        "censored": false,
+        "eac": false,
+        "unlock": null,
+        "konasutePack": null
+    },
+    {
+        "songIdx": 1061,
+        "songName": "Poison AND÷OR Affection",
+        "artist": "LeaF",
+        "dateString": "2018-12-06",
+        "imageUrl": "https://sdvx.vsfe.me/static/img/1061_poisonand_leaf/1061_1_b.webp",
+        "levels": [
+            {
+                "level": 5,
+                "difficulty": "NOVICE"
+            },
+            {
+                "level": 10,
+                "difficulty": "ADVANCED"
+            },
+            {
+                "level": 14,
+                "difficulty": "EXHAUST"
+            },
+            {
+                "level": 17,
+                "difficulty": "MAXIMUM"
+            }
+        ],
+        "censored": false,
+        "eac": false,
+        "unlock": null,
+        "konasutePack": null
+    },
+    {
+        "songIdx": 1064,
+        "songName": "KIRAMEKI OVERDRIVE",
+        "artist": "FALL",
+        "dateString": "2018-12-06",
+        "imageUrl": "https://sdvx.vsfe.me/static/img/1064_kirameki_overdrive_fall/1064_1_b.webp",
+        "levels": [
+            {
+                "level": 3,
+                "difficulty": "NOVICE"
+            },
+            {
+                "level": 8,
+                "difficulty": "ADVANCED"
+            },
+            {
+                "level": 13,
+                "difficulty": "EXHAUST"
+            },
+            {
+                "level": 16,
+                "difficulty": "MAXIMUM"
+            }
+        ],
+        "censored": false,
+        "eac": false,
+        "unlock": null,
+        "konasutePack": null
+    },
+    {
+        "songIdx": 1068,
+        "songName": "アンハッピーリフレイン",
+        "artist": "wowaka",
+        "dateString": "2018-12-06",
+        "imageUrl": "https://sdvx.vsfe.me/static/img/1068_unhappy_wowaka/1068_1_b.webp",
+        "levels": [
+            {
+                "level": 5,
+                "difficulty": "NOVICE"
+            },
+            {
+                "level": 10,
+                "difficulty": "ADVANCED"
+            },
+            {
+                "level": 14,
+                "difficulty": "EXHAUST"
+            },
+            {
+                "level": 17,
+                "difficulty": "MAXIMUM"
+            }
+        ],
+        "censored": false,
+        "eac": false,
+        "unlock": null,
+        "konasutePack": null
+    },
+    {
+        "songIdx": 1069,
+        "songName": "ローリンガール",
+        "artist": "wowaka",
+        "dateString": "2018-12-06",
+        "imageUrl": "https://sdvx.vsfe.me/static/img/1069_rollingirl_wowaka/1069_1_b.webp",
+        "levels": [
+            {
+                "level": 4,
+                "difficulty": "NOVICE"
+            },
+            {
+                "level": 9,
+                "difficulty": "ADVANCED"
+            },
+            {
+                "level": 12,
+                "difficulty": "EXHAUST"
+            },
+            {
+                "level": 16,
+                "difficulty": "MAXIMUM"
+            }
+        ],
+        "censored": false,
+        "eac": false,
+        "unlock": null,
+        "konasutePack": null
+    },
+    {
+        "songIdx": 1192,
+        "songName": "Divine's or Deal",
+        "artist": "winddrums vs cosMo",
+        "dateString": "2018-11-21",
+        "imageUrl": "https://sdvx.vsfe.me/static/img/1192_divinesordeal_winddrums/1192_1_b.webp",
+        "levels": [
+            {
+                "level": 6,
+                "difficulty": "NOVICE"
+            },
+            {
+                "level": 13,
+                "difficulty": "ADVANCED"
+            },
+            {
+                "level": 16,
+                "difficulty": "EXHAUST"
+            },
+            {
+                "level": 18,
+                "difficulty": "MAXIMUM"
+            }
+        ],
+        "censored": false,
+        "eac": false,
+        "unlock": null,
+        "konasutePack": null
+    },
+    {
+        "songIdx": 1193,
+        "songName": "ファイナルレター",
+        "artist": "かねこちはる",
+        "dateString": "2018-11-21",
+        "imageUrl": "https://sdvx.vsfe.me/static/img/1193_finalletter_kanekochiharu/1193_1_b.webp",
+        "levels": [
+            {
+                "level": 6,
+                "difficulty": "NOVICE"
+            },
+            {
+                "level": 12,
+                "difficulty": "ADVANCED"
+            },
+            {
+                "level": 16,
+                "difficulty": "EXHAUST"
+            },
+            {
+                "level": 18,
+                "difficulty": "MAXIMUM"
+            }
+        ],
+        "censored": false,
+        "eac": false,
+        "unlock": null,
+        "konasutePack": null
+    },
+    {
+        "songIdx": 1213,
+        "songName": "ブチ上げ候！現代忍者三姉妹",
+        "artist": "溝口ゆうま feat. みこ♡なち♡あい",
+        "dateString": "2018-11-21",
+        "imageUrl": "https://sdvx.vsfe.me/static/img/1213_buchiagesourou_mizonokuchi/1213_1_b.webp",
+        "levels": [
+            {
+                "level": 5,
+                "difficulty": "NOVICE"
+            },
+            {
+                "level": 12,
+                "difficulty": "ADVANCED"
+            },
+            {
+                "level": 14,
+                "difficulty": "EXHAUST"
+            },
+            {
+                "level": 17,
+                "difficulty": "MAXIMUM"
+            }
+        ],
+        "censored": false,
+        "eac": false,
+        "unlock": null,
+        "konasutePack": null
+    },
+    {
+        "songIdx": 1214,
+        "songName": "Musha Vibration",
+        "artist": "NA7",
+        "dateString": "2018-11-21",
+        "imageUrl": "https://sdvx.vsfe.me/static/img/1214_mushavibration_na7/1214_5_b.webp",
+        "levels": [
+            {
+                "level": 6,
+                "difficulty": "NOVICE"
+            },
+            {
+                "level": 12,
+                "difficulty": "ADVANCED"
+            },
+            {
+                "level": 15,
+                "difficulty": "EXHAUST"
+            },
+            {
+                "level": 17,
+                "difficulty": "MAXIMUM"
+            }
+        ],
+        "censored": false,
+        "eac": false,
+        "unlock": null,
+        "konasutePack": null
+    },
+    {
+        "songIdx": 1334,
+        "songName": "Catch Our Fire!",
+        "artist": "中島由貴",
+        "dateString": "2018-11-21",
+        "imageUrl": "https://sdvx.vsfe.me/static/img/1334_catchourfire_nakashimayuki/1334_1_b.webp",
+        "levels": [
+            {
+                "level": 5,
+                "difficulty": "NOVICE"
+            },
+            {
+                "level": 11,
+                "difficulty": "ADVANCED"
+            },
+            {
+                "level": 15,
+                "difficulty": "EXHAUST"
+            },
+            {
+                "level": 18,
+                "difficulty": "MAXIMUM"
+            }
+        ],
+        "censored": false,
+        "eac": false,
+        "unlock": null,
+        "konasutePack": null
+    },
+    {
+        "songIdx": 1331,
+        "songName": "Sulk",
+        "artist": "SYUNN",
+        "dateString": "2018-11-15",
+        "imageUrl": "https://sdvx.vsfe.me/static/img/1331_sulk_syunn/1331_1_b.webp",
+        "levels": [
+            {
+                "level": 5,
+                "difficulty": "NOVICE"
+            },
+            {
+                "level": 11,
+                "difficulty": "ADVANCED"
+            },
+            {
+                "level": 14,
+                "difficulty": "EXHAUST"
+            },
+            {
+                "level": 17,
+                "difficulty": "MAXIMUM"
+            }
+        ],
+        "censored": false,
+        "eac": false,
+        "unlock": null,
+        "konasutePack": null
+    },
+    {
+        "songIdx": 1332,
+        "songName": "Midnight City Warfare",
+        "artist": "sky_delta",
+        "dateString": "2018-11-15",
+        "imageUrl": "https://sdvx.vsfe.me/static/img/1332_midnightcity_skydelta/1332_1_b.webp",
+        "levels": [
+            {
+                "level": 6,
+                "difficulty": "NOVICE"
+            },
+            {
+                "level": 13,
+                "difficulty": "ADVANCED"
+            },
+            {
+                "level": 16,
+                "difficulty": "EXHAUST"
+            },
+            {
+                "level": 18,
+                "difficulty": "MAXIMUM"
+            }
+        ],
+        "censored": false,
+        "eac": false,
+        "unlock": null,
+        "konasutePack": null
+    },
+    {
+        "songIdx": 1333,
+        "songName": "†渚の小悪魔ラヴリィ～レイディオ†",
+        "artist": "夏色ビキニのPrim",
+        "dateString": "2018-11-15",
+        "imageUrl": "https://sdvx.vsfe.me/static/img/1333_nagisanokoakuma_prim/1333_1_b.webp",
+        "levels": [
+            {
+                "level": 6,
+                "difficulty": "NOVICE"
+            },
+            {
+                "level": 13,
+                "difficulty": "ADVANCED"
+            },
+            {
+                "level": 15,
+                "difficulty": "EXHAUST"
+            },
+            {
+                "level": 18,
+                "difficulty": "MAXIMUM"
+            }
+        ],
+        "censored": false,
+        "eac": false,
+        "unlock": null,
+        "konasutePack": null
+    },
+    {
+        "songIdx": 1326,
+        "songName": "Xevel",
+        "artist": "Tatsh「CHUNITHM」より",
+        "dateString": "2018-10-25",
+        "imageUrl": "https://sdvx.vsfe.me/static/img/1326_xevel_tatsh/1326_1_b.webp",
+        "levels": [
+            {
+                "level": 6,
+                "difficulty": "NOVICE"
+            },
+            {
+                "level": 13,
+                "difficulty": "ADVANCED"
+            },
+            {
+                "level": 16,
+                "difficulty": "EXHAUST"
+            },
+            {
+                "level": 18,
+                "difficulty": "MAXIMUM"
+            }
+        ],
+        "censored": false,
+        "eac": false,
+        "unlock": null,
+        "konasutePack": null
+    },
+    {
+        "songIdx": 1327,
+        "songName": "ouroboros -twin stroke of the end-",
+        "artist": "Cranky VS MASAKI「グルーヴコースター」より",
+        "dateString": "2018-10-25",
+        "imageUrl": "https://sdvx.vsfe.me/static/img/1327_ourobors_crankymasaki/1327_1_b.webp",
+        "levels": [
+            {
+                "level": 6,
+                "difficulty": "NOVICE"
+            },
+            {
+                "level": 13,
+                "difficulty": "ADVANCED"
+            },
+            {
+                "level": 16,
+                "difficulty": "EXHAUST"
+            },
+            {
+                "level": 18,
+                "difficulty": "MAXIMUM"
+            }
+        ],
+        "censored": false,
+        "eac": false,
+        "unlock": null,
+        "konasutePack": null
+    },
+    {
+        "songIdx": 1328,
+        "songName": "Taiko Drum Monster",
+        "artist": "steμ feat. siroa「太鼓の達人」より",
+        "dateString": "2018-10-25",
+        "imageUrl": "https://sdvx.vsfe.me/static/img/1328_taikodrummonster_stemu/1328_1_b.webp",
+        "levels": [
+            {
+                "level": 6,
+                "difficulty": "NOVICE"
+            },
+            {
+                "level": 13,
+                "difficulty": "ADVANCED"
+            },
+            {
+                "level": 16,
+                "difficulty": "EXHAUST"
+            },
+            {
+                "level": 18,
+                "difficulty": "MAXIMUM"
+            }
+        ],
+        "censored": false,
+        "eac": false,
+        "unlock": null,
+        "konasutePack": null
+    },
+    {
+        "songIdx": 1329,
+        "songName": "逆月",
+        "artist": "BEMANI Sound Team \"HuΣeR\" feat.Fernweh",
+        "dateString": "2018-10-25",
+        "imageUrl": "https://sdvx.vsfe.me/static/img/1329_sakaduki_humer/1329_1_b.webp",
+        "levels": [
+            {
+                "level": 7,
+                "difficulty": "NOVICE"
+            },
+            {
+                "level": 14,
+                "difficulty": "ADVANCED"
+            },
+            {
+                "level": 17,
+                "difficulty": "EXHAUST"
+            },
+            {
+                "level": 19,
+                "difficulty": "MAXIMUM"
+            }
+        ],
+        "censored": false,
+        "eac": false,
+        "unlock": null,
+        "konasutePack": null
+    },
+    {
+        "songIdx": 1316,
+        "songName": "Elemental Creation",
+        "artist": "dj TAKA meets DJ YOSHITAKA",
+        "dateString": "2018-10-04",
+        "imageUrl": "https://sdvx.vsfe.me/static/img/1316_elementalcreation_takayoshitaka/1316_1_b.webp",
+        "levels": [
+            {
+                "level": 7,
+                "difficulty": "NOVICE"
+            },
+            {
+                "level": 14,
+                "difficulty": "ADVANCED"
+            },
+            {
+                "level": 17,
+                "difficulty": "EXHAUST"
+            },
+            {
+                "level": 19,
+                "difficulty": "MAXIMUM"
+            }
+        ],
+        "censored": false,
+        "eac": false,
+        "unlock": null,
+        "konasutePack": null
+    },
+    {
+        "songIdx": 1317,
+        "songName": "ラキラキ",
+        "artist": "Mutsuhiko Izumi & S-C-U",
+        "dateString": "2018-10-04",
+        "imageUrl": "https://sdvx.vsfe.me/static/img/1317_rakiraki_izumiscu/1317_1_b.webp",
+        "levels": [
+            {
+                "level": 5,
+                "difficulty": "NOVICE"
+            },
+            {
+                "level": 11,
+                "difficulty": "ADVANCED"
+            },
+            {
+                "level": 14,
+                "difficulty": "EXHAUST"
+            },
+            {
+                "level": 17,
+                "difficulty": "MAXIMUM"
+            }
+        ],
+        "censored": false,
+        "eac": false,
+        "unlock": null,
+        "konasutePack": null
+    },
+    {
+        "songIdx": 1318,
+        "songName": "晴天Bon Voyage",
+        "artist": "TOMOSUKE × seiya-murai feat. ALT",
+        "dateString": "2018-10-04",
+        "imageUrl": "https://sdvx.vsfe.me/static/img/1318_seitenbonvoyage_tomosukeseiya/1318_1_b.webp",
+        "levels": [
+            {
+                "level": 4,
+                "difficulty": "NOVICE"
+            },
+            {
+                "level": 10,
+                "difficulty": "ADVANCED"
+            },
+            {
+                "level": 13,
+                "difficulty": "EXHAUST"
+            },
+            {
+                "level": 16,
+                "difficulty": "MAXIMUM"
+            }
+        ],
+        "censored": false,
+        "eac": false,
+        "unlock": null,
+        "konasutePack": null
+    },
+    {
+        "songIdx": 1319,
+        "songName": "STULTI",
+        "artist": "MAX MAXIMIZER VS DJ TOTTO",
+        "dateString": "2018-10-04",
+        "imageUrl": "https://sdvx.vsfe.me/static/img/1319_stulti_maxmaximizertotto/1319_1_b.webp",
+        "levels": [
+            {
+                "level": 6,
+                "difficulty": "NOVICE"
+            },
+            {
+                "level": 13,
+                "difficulty": "ADVANCED"
+            },
+            {
+                "level": 16,
+                "difficulty": "EXHAUST"
+            },
+            {
+                "level": 18,
+                "difficulty": "MAXIMUM"
+            }
+        ],
+        "censored": false,
+        "eac": false,
+        "unlock": null,
+        "konasutePack": null
+    },
+    {
+        "songIdx": 1320,
+        "songName": "虹色の花",
+        "artist": "Akhuta y OJ",
+        "dateString": "2018-10-04",
+        "imageUrl": "https://sdvx.vsfe.me/static/img/1320_nijiironohana_akhutayoj/1320_1_b.webp",
+        "levels": [
+            {
+                "level": 5,
+                "difficulty": "NOVICE"
+            },
+            {
+                "level": 10,
+                "difficulty": "ADVANCED"
+            },
+            {
+                "level": 13,
+                "difficulty": "EXHAUST"
+            },
+            {
+                "level": 16,
+                "difficulty": "MAXIMUM"
+            }
+        ],
+        "censored": false,
+        "eac": false,
+        "unlock": null,
+        "konasutePack": null
+    },
+    {
+        "songIdx": 1321,
+        "songName": "お米の美味しい炊き方、そしてお米を食べることによるその効果。",
+        "artist": "大日本鉄倶楽部【あさき＆９６】",
+        "dateString": "2018-10-04",
+        "imageUrl": "https://sdvx.vsfe.me/static/img/1321_okome_asaki96/1321_1_b.webp",
+        "levels": [
+            {
+                "level": 6,
+                "difficulty": "NOVICE"
+            },
+            {
+                "level": 11,
+                "difficulty": "ADVANCED"
+            },
+            {
+                "level": 15,
+                "difficulty": "EXHAUST"
+            },
+            {
+                "level": 18,
+                "difficulty": "MAXIMUM"
+            }
+        ],
+        "censored": false,
+        "eac": false,
+        "unlock": null,
+        "konasutePack": null
+    },
+    {
+        "songIdx": 1322,
+        "songName": "創世ノート",
+        "artist": "PON+wac",
+        "dateString": "2018-10-04",
+        "imageUrl": "https://sdvx.vsfe.me/static/img/1322_souseinote_ponwac/1322_1_b.webp",
+        "levels": [
+            {
+                "level": 6,
+                "difficulty": "NOVICE"
+            },
+            {
+                "level": 12,
+                "difficulty": "ADVANCED"
+            },
+            {
+                "level": 15,
+                "difficulty": "EXHAUST"
+            },
+            {
+                "level": 17,
+                "difficulty": "MAXIMUM"
+            }
+        ],
+        "censored": false,
+        "eac": false,
+        "unlock": null,
+        "konasutePack": null
+    },
+    {
+        "songIdx": 1323,
+        "songName": "Synergy For Angels",
+        "artist": "TAG×U1-ASAMi",
+        "dateString": "2018-10-04",
+        "imageUrl": "https://sdvx.vsfe.me/static/img/1323_synergy_tagu1/1323_1_b.webp",
+        "levels": [
+            {
+                "level": 5,
+                "difficulty": "NOVICE"
+            },
+            {
+                "level": 12,
+                "difficulty": "ADVANCED"
+            },
+            {
+                "level": 14,
+                "difficulty": "EXHAUST"
+            },
+            {
+                "level": 17,
+                "difficulty": "MAXIMUM"
+            }
+        ],
+        "censored": false,
+        "eac": false,
+        "unlock": null,
+        "konasutePack": null
+    },
+    {
+        "songIdx": 1324,
+        "songName": "Empathetic",
+        "artist": "Sota÷Des",
+        "dateString": "2018-10-04",
+        "imageUrl": "https://sdvx.vsfe.me/static/img/1324_empathetic_sotades/1324_1_b.webp",
+        "levels": [
+            {
+                "level": 6,
+                "difficulty": "NOVICE"
+            },
+            {
+                "level": 11,
+                "difficulty": "ADVANCED"
+            },
+            {
+                "level": 13,
+                "difficulty": "EXHAUST"
+            },
+            {
+                "level": 17,
+                "difficulty": "MAXIMUM"
+            }
+        ],
+        "censored": false,
+        "eac": false,
+        "unlock": null,
+        "konasutePack": null
+    },
+    {
+        "songIdx": 1325,
+        "songName": "GAIA",
+        "artist": "猫叉L.E.D.Master+",
+        "dateString": "2018-10-04",
+        "imageUrl": "https://sdvx.vsfe.me/static/img/1325_gaia_nekomataled/1325_1_b.webp",
+        "levels": [
+            {
+                "level": 6,
+                "difficulty": "NOVICE"
+            },
+            {
+                "level": 12,
+                "difficulty": "ADVANCED"
+            },
+            {
+                "level": 15,
+                "difficulty": "EXHAUST"
+            },
+            {
+                "level": 18,
+                "difficulty": "MAXIMUM"
+            }
+        ],
+        "censored": false,
+        "eac": false,
+        "unlock": null,
+        "konasutePack": null
+    },
+    {
+        "songIdx": 929,
+        "songName": "PROVOES*PROPOSE <<êl fine>>",
+        "artist": "Yu_Asahina as \"papyrus\"",
+        "dateString": "2018-09-13",
+        "imageUrl": "https://sdvx.vsfe.me/static/img/0929_provoes_propose_yu_asahina/0929_4_b.webp",
+        "levels": [
+            {
+                "level": 6,
+                "difficulty": "NOVICE"
+            },
+            {
+                "level": 13,
+                "difficulty": "ADVANCED"
+            },
+            {
+                "level": 16,
+                "difficulty": "EXHAUST"
+            },
+            {
+                "level": 18,
+                "difficulty": "GRAVITY"
+            }
+        ],
+        "censored": false,
+        "eac": false,
+        "unlock": null,
+        "konasutePack": null
+    },
+    {
+        "songIdx": 1231,
+        "songName": "Invisible Bullets",
+        "artist": "brz1128",
+        "dateString": "2018-09-13",
+        "imageUrl": "https://sdvx.vsfe.me/static/img/1231_invisiblebullets_brz1128/1231_5_b.webp",
+        "levels": [
+            {
+                "level": 5,
+                "difficulty": "NOVICE"
+            },
+            {
+                "level": 12,
+                "difficulty": "ADVANCED"
+            },
+            {
+                "level": 15,
+                "difficulty": "EXHAUST"
+            },
+            {
+                "level": 17,
+                "difficulty": "MAXIMUM"
+            }
+        ],
+        "censored": false,
+        "eac": false,
+        "unlock": null,
+        "konasutePack": null
+    },
+    {
+        "songIdx": 1238,
+        "songName": "Night Rockin' Bird",
+        "artist": "kanone",
+        "dateString": "2018-09-13",
+        "imageUrl": "https://sdvx.vsfe.me/static/img/1238_nightrockinbird_kanone/1238_5_b.webp",
+        "levels": [
+            {
+                "level": 5,
+                "difficulty": "NOVICE"
+            },
+            {
+                "level": 12,
+                "difficulty": "ADVANCED"
+            },
+            {
+                "level": 14,
+                "difficulty": "EXHAUST"
+            },
+            {
+                "level": 18,
+                "difficulty": "MAXIMUM"
+            }
+        ],
+        "censored": false,
+        "eac": false,
+        "unlock": null,
+        "konasutePack": null
+    },
+    {
+        "songIdx": 1240,
+        "songName": "Venomous Firefly",
+        "artist": "かめりあ",
+        "dateString": "2018-09-13",
+        "imageUrl": "https://sdvx.vsfe.me/static/img/1240_venomousfirefly_kameria/1240_1_b.webp",
+        "levels": [
+            {
+                "level": 6,
+                "difficulty": "NOVICE"
+            },
+            {
+                "level": 13,
+                "difficulty": "ADVANCED"
+            },
+            {
+                "level": 16,
+                "difficulty": "EXHAUST"
+            },
+            {
+                "level": 18,
+                "difficulty": "MAXIMUM"
+            }
+        ],
+        "censored": false,
+        "eac": false,
+        "unlock": null,
+        "konasutePack": null
+    },
+    {
+        "songIdx": 1241,
+        "songName": "Princess K",
+        "artist": "Retropolitaliens(Ms.+駄々子)",
+        "dateString": "2018-09-13",
+        "imageUrl": "https://sdvx.vsfe.me/static/img/1241_princessk_retropolitaliens/1241_5_b.webp",
+        "levels": [
+            {
+                "level": 4,
+                "difficulty": "NOVICE"
+            },
+            {
+                "level": 10,
+                "difficulty": "ADVANCED"
+            },
+            {
+                "level": 13,
+                "difficulty": "EXHAUST"
+            },
+            {
+                "level": 16,
+                "difficulty": "MAXIMUM"
+            }
+        ],
+        "censored": false,
+        "eac": false,
+        "unlock": null,
+        "konasutePack": null
+    },
+    {
+        "songIdx": 1244,
+        "songName": "Nostalgic Blood of the Strife",
+        "artist": "Laur",
+        "dateString": "2018-09-13",
+        "imageUrl": "https://sdvx.vsfe.me/static/img/1244_nostalgicbloodof_laur/1244_5_b.webp",
+        "levels": [
+            {
+                "level": 6,
+                "difficulty": "NOVICE"
+            },
+            {
+                "level": 13,
+                "difficulty": "ADVANCED"
+            },
+            {
+                "level": 16,
+                "difficulty": "EXHAUST"
+            },
+            {
+                "level": 18,
+                "difficulty": "MAXIMUM"
+            }
+        ],
+        "censored": false,
+        "eac": false,
+        "unlock": null,
+        "konasutePack": null
+    },
+    {
+        "songIdx": 1245,
+        "songName": "マイネ・クライネ・ナハトムジーク",
+        "artist": "Die Ellipse (deli. with 倉田美和)",
+        "dateString": "2018-09-13",
+        "imageUrl": "https://sdvx.vsfe.me/static/img/1245_mainekuraine_dieellipse/1245_1_b.webp",
+        "levels": [
+            {
+                "level": 4,
+                "difficulty": "NOVICE"
+            },
+            {
+                "level": 10,
+                "difficulty": "ADVANCED"
+            },
+            {
+                "level": 13,
+                "difficulty": "EXHAUST"
+            },
+            {
+                "level": 16,
+                "difficulty": "MAXIMUM"
+            }
+        ],
+        "censored": false,
+        "eac": false,
+        "unlock": null,
+        "konasutePack": null
+    },
+    {
+        "songIdx": 1251,
+        "songName": "Tic Exe",
+        "artist": "Se-U-Ra",
+        "dateString": "2018-09-13",
+        "imageUrl": "https://sdvx.vsfe.me/static/img/1251_ticexe_seura/1251_1_b.webp",
+        "levels": [
+            {
+                "level": 5,
+                "difficulty": "NOVICE"
+            },
+            {
+                "level": 11,
+                "difficulty": "ADVANCED"
+            },
+            {
+                "level": 14,
+                "difficulty": "EXHAUST"
+            },
+            {
+                "level": 17,
+                "difficulty": "MAXIMUM"
+            }
+        ],
+        "censored": false,
+        "eac": false,
+        "unlock": null,
+        "konasutePack": null
+    },
+    {
+        "songIdx": 934,
+        "songName": "異世界ノットパンピー",
+        "artist": "164 feat.GUMI",
+        "dateString": "2018-09-06",
+        "imageUrl": "https://sdvx.vsfe.me/static/img/0934_isekainot_164/0934_1_b.webp",
+        "levels": [
+            {
+                "level": 4,
+                "difficulty": "NOVICE"
+            },
+            {
+                "level": 10,
+                "difficulty": "ADVANCED"
+            },
+            {
+                "level": 13,
+                "difficulty": "EXHAUST"
+            },
+            {
+                "level": 16,
+                "difficulty": "MAXIMUM"
+            }
+        ],
+        "censored": false,
+        "eac": false,
+        "unlock": null,
+        "konasutePack": null
+    },
+    {
+        "songIdx": 937,
+        "songName": "嘘とぬいぐるみ",
+        "artist": "Dixie Flatline",
+        "dateString": "2018-09-06",
+        "imageUrl": "https://sdvx.vsfe.me/static/img/0937_usotonuigurumi_dixie/0937_1_b.webp",
+        "levels": [
+            {
+                "level": 3,
+                "difficulty": "NOVICE"
+            },
+            {
+                "level": 8,
+                "difficulty": "ADVANCED"
+            },
+            {
+                "level": 13,
+                "difficulty": "EXHAUST"
+            },
+            {
+                "level": 16,
+                "difficulty": "MAXIMUM"
+            }
+        ],
+        "censored": false,
+        "eac": false,
+        "unlock": null,
+        "konasutePack": null
+    },
+    {
+        "songIdx": 1204,
+        "songName": "No way",
+        "artist": "影虎。",
+        "dateString": "2018-09-06",
+        "imageUrl": "https://sdvx.vsfe.me/static/img/1204_noway_kagetora/1204_5_b.webp",
+        "levels": [
+            {
+                "level": 5,
+                "difficulty": "NOVICE"
+            },
+            {
+                "level": 11,
+                "difficulty": "ADVANCED"
+            },
+            {
+                "level": 14,
+                "difficulty": "EXHAUST"
+            },
+            {
+                "level": 17,
+                "difficulty": "MAXIMUM"
+            }
+        ],
+        "censored": false,
+        "eac": false,
+        "unlock": null,
+        "konasutePack": null
+    },
+    {
+        "songIdx": 1208,
+        "songName": "Coldlapse",
+        "artist": "Aoi vs. r0y",
+        "dateString": "2018-09-06",
+        "imageUrl": "https://sdvx.vsfe.me/static/img/1208_coldapse_aoi/1208_1_b.webp",
+        "levels": [
+            {
+                "level": 5,
+                "difficulty": "NOVICE"
+            },
+            {
+                "level": 12,
+                "difficulty": "ADVANCED"
+            },
+            {
+                "level": 15,
+                "difficulty": "EXHAUST"
+            },
+            {
+                "level": 17,
+                "difficulty": "MAXIMUM"
+            }
+        ],
+        "censored": false,
+        "eac": false,
+        "unlock": null,
+        "konasutePack": null
+    },
+    {
+        "songIdx": 1211,
+        "songName": "Beyond the BLUE",
+        "artist": "Ayato × sak × 田島千種",
+        "dateString": "2018-09-06",
+        "imageUrl": "https://sdvx.vsfe.me/static/img/1211_beyondtheblue_ayato/1211_5_b.webp",
+        "levels": [
+            {
+                "level": 6,
+                "difficulty": "NOVICE"
+            },
+            {
+                "level": 13,
+                "difficulty": "ADVANCED"
+            },
+            {
+                "level": 16,
+                "difficulty": "EXHAUST"
+            },
+            {
+                "level": 18,
+                "difficulty": "MAXIMUM"
+            }
+        ],
+        "censored": false,
+        "eac": false,
+        "unlock": null,
+        "konasutePack": null
+    },
+    {
+        "songIdx": 1218,
+        "songName": "Akzeriyyuth",
+        "artist": "Team&Dj Grimoire",
+        "dateString": "2018-09-06",
+        "imageUrl": "https://sdvx.vsfe.me/static/img/1218_akzeriyyuth_grimoire/1218_1_b.webp",
+        "levels": [
+            {
+                "level": 6,
+                "difficulty": "NOVICE"
+            },
+            {
+                "level": 13,
+                "difficulty": "ADVANCED"
+            },
+            {
+                "level": 15,
+                "difficulty": "EXHAUST"
+            },
+            {
+                "level": 18,
+                "difficulty": "MAXIMUM"
+            }
+        ],
+        "censored": false,
+        "eac": false,
+        "unlock": null,
+        "konasutePack": null
+    },
+    {
+        "songIdx": 1239,
+        "songName": "Breakin' Asia",
+        "artist": "かたぎり",
+        "dateString": "2018-08-30",
+        "imageUrl": "https://sdvx.vsfe.me/static/img/1239_breakinasia_katagiri/1239_1_b.webp",
+        "levels": [
+            {
+                "level": 6,
+                "difficulty": "NOVICE"
+            },
+            {
+                "level": 13,
+                "difficulty": "ADVANCED"
+            },
+            {
+                "level": 16,
+                "difficulty": "EXHAUST"
+            },
+            {
+                "level": 18,
+                "difficulty": "MAXIMUM"
+            }
+        ],
+        "censored": false,
+        "eac": false,
+        "unlock": null,
+        "konasutePack": null
+    }
+]

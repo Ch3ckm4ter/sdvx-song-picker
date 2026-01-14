@@ -1,0 +1,1452 @@
+[
+    {
+        "songIdx": 2052,
+        "songName": "Prayer",
+        "artist": "溝口ゆうま feat. 大瀬良あい",
+        "dateString": "2023-07-20",
+        "imageUrl": "https://sdvx.vsfe.me/static/img/2052_prayer_mizonokuchi/2052_1_b.webp",
+        "levels": [
+            {
+                "level": 6,
+                "difficulty": "NOVICE"
+            },
+            {
+                "level": 12,
+                "difficulty": "ADVANCED"
+            },
+            {
+                "level": 15,
+                "difficulty": "EXHAUST"
+            },
+            {
+                "level": 18,
+                "difficulty": "MAXIMUM"
+            }
+        ],
+        "censored": false,
+        "eac": false,
+        "unlock": null,
+        "konasutePack": null
+    },
+    {
+        "songIdx": 1990,
+        "songName": "トーキョーサマーナイト（華金Remix）",
+        "artist": "あまみ×ひなみ",
+        "dateString": "2023-07-06",
+        "imageUrl": "https://sdvx.vsfe.me/static/img/1990_tokyosummerrmx_amamihinami/1990_5_b.webp",
+        "levels": [
+            {
+                "level": 4,
+                "difficulty": "NOVICE"
+            },
+            {
+                "level": 12,
+                "difficulty": "ADVANCED"
+            },
+            {
+                "level": 14,
+                "difficulty": "EXHAUST"
+            },
+            {
+                "level": 17,
+                "difficulty": "MAXIMUM"
+            }
+        ],
+        "censored": false,
+        "eac": false,
+        "unlock": null,
+        "konasutePack": null
+    },
+    {
+        "songIdx": 1995,
+        "songName": "劇場版ムーニャポヨポヨスッポコニャーゴ~侵略だいず帝国！ドラマティック宇宙大戦争~",
+        "artist": "打打だいず",
+        "dateString": "2023-07-06",
+        "imageUrl": "https://sdvx.vsfe.me/static/img/1995_muunyarmx_dadadaizu/1995_5_b.webp",
+        "levels": [
+            {
+                "level": 6,
+                "difficulty": "NOVICE"
+            },
+            {
+                "level": 13,
+                "difficulty": "ADVANCED"
+            },
+            {
+                "level": 16,
+                "difficulty": "EXHAUST"
+            },
+            {
+                "level": 18,
+                "difficulty": "MAXIMUM"
+            }
+        ],
+        "censored": false,
+        "eac": false,
+        "unlock": null,
+        "konasutePack": null
+    },
+    {
+        "songIdx": 2016,
+        "songName": "The EXworld of sound",
+        "artist": "Remix by Aoi, Vocal by Kuroa*",
+        "dateString": "2023-07-06",
+        "imageUrl": "https://sdvx.vsfe.me/static/img/2016_worldofsoundrmx_aoi/2016_5_b.webp",
+        "levels": [
+            {
+                "level": 6,
+                "difficulty": "NOVICE"
+            },
+            {
+                "level": 13,
+                "difficulty": "ADVANCED"
+            },
+            {
+                "level": 16,
+                "difficulty": "EXHAUST"
+            },
+            {
+                "level": 18,
+                "difficulty": "MAXIMUM"
+            }
+        ],
+        "censored": false,
+        "eac": false,
+        "unlock": null,
+        "konasutePack": null
+    },
+    {
+        "songIdx": 2021,
+        "songName": "Pixelated Platform (Super Honey!)",
+        "artist": "そよもぎ",
+        "dateString": "2023-07-06",
+        "imageUrl": "https://sdvx.vsfe.me/static/img/2021_pixelatedrmx_soyomogi/2021_1_b.webp",
+        "levels": [
+            {
+                "level": 5,
+                "difficulty": "NOVICE"
+            },
+            {
+                "level": 12,
+                "difficulty": "ADVANCED"
+            },
+            {
+                "level": 15,
+                "difficulty": "EXHAUST"
+            },
+            {
+                "level": 17,
+                "difficulty": "MAXIMUM"
+            }
+        ],
+        "censored": false,
+        "eac": false,
+        "unlock": null,
+        "konasutePack": null
+    },
+    {
+        "songIdx": 1905,
+        "songName": "凛として咲く花の如く",
+        "artist": "大神ミオ",
+        "dateString": "2023-06-29",
+        "imageUrl": "https://sdvx.vsfe.me/static/img/1905_rinsaku_ookamimio/1905_1_b.webp",
+        "levels": [
+            {
+                "level": 3,
+                "difficulty": "NOVICE"
+            },
+            {
+                "level": 11,
+                "difficulty": "ADVANCED"
+            },
+            {
+                "level": 14,
+                "difficulty": "EXHAUST"
+            },
+            {
+                "level": 17,
+                "difficulty": "MAXIMUM"
+            }
+        ],
+        "censored": false,
+        "eac": false,
+        "unlock": null,
+        "konasutePack": null
+    },
+    {
+        "songIdx": 1927,
+        "songName": "ハッピーエンド",
+        "artist": "technoplanet feat. Kuroto Sion",
+        "dateString": "2023-06-22",
+        "imageUrl": "https://sdvx.vsfe.me/static/img/1927_happyend_technoplanet/1927_5_b.webp",
+        "levels": [
+            {
+                "level": 6,
+                "difficulty": "NOVICE"
+            },
+            {
+                "level": 13,
+                "difficulty": "ADVANCED"
+            },
+            {
+                "level": 16,
+                "difficulty": "EXHAUST"
+            },
+            {
+                "level": 18,
+                "difficulty": "MAXIMUM"
+            }
+        ],
+        "censored": false,
+        "eac": false,
+        "unlock": null,
+        "konasutePack": null
+    },
+    {
+        "songIdx": 1934,
+        "songName": "Juωpscare!!",
+        "artist": "coTatsu",
+        "dateString": "2023-06-22",
+        "imageUrl": "https://sdvx.vsfe.me/static/img/1934_jumpscare_cotatsu/1934_5_b.webp",
+        "levels": [
+            {
+                "level": 6,
+                "difficulty": "NOVICE"
+            },
+            {
+                "level": 12,
+                "difficulty": "ADVANCED"
+            },
+            {
+                "level": 15,
+                "difficulty": "EXHAUST"
+            },
+            {
+                "level": 18,
+                "difficulty": "MAXIMUM"
+            }
+        ],
+        "censored": false,
+        "eac": false,
+        "unlock": null,
+        "konasutePack": null
+    },
+    {
+        "songIdx": 1935,
+        "songName": "PRIDE of the FIREBALL",
+        "artist": "かぼちゃ feat. CO-DA",
+        "dateString": "2023-06-22",
+        "imageUrl": "https://sdvx.vsfe.me/static/img/1935_prideoffireball_kabochacoda/1935_5_b.webp",
+        "levels": [
+            {
+                "level": 5,
+                "difficulty": "NOVICE"
+            },
+            {
+                "level": 12,
+                "difficulty": "ADVANCED"
+            },
+            {
+                "level": 15,
+                "difficulty": "EXHAUST"
+            },
+            {
+                "level": 17,
+                "difficulty": "MAXIMUM"
+            }
+        ],
+        "censored": false,
+        "eac": false,
+        "unlock": null,
+        "konasutePack": null
+    },
+    {
+        "songIdx": 1936,
+        "songName": "D.I.X.",
+        "artist": "日夜すずり feat. 凜々",
+        "dateString": "2023-06-22",
+        "imageUrl": "https://sdvx.vsfe.me/static/img/1936_dix_higurashisuzuri/1936_5_b.webp",
+        "levels": [
+            {
+                "level": 6,
+                "difficulty": "NOVICE"
+            },
+            {
+                "level": 13,
+                "difficulty": "ADVANCED"
+            },
+            {
+                "level": 16,
+                "difficulty": "EXHAUST"
+            },
+            {
+                "level": 18,
+                "difficulty": "MAXIMUM"
+            }
+        ],
+        "censored": false,
+        "eac": false,
+        "unlock": null,
+        "konasutePack": null
+    },
+    {
+        "songIdx": 1937,
+        "songName": "Second Game",
+        "artist": "Tracy feat. miko",
+        "dateString": "2023-06-22",
+        "imageUrl": "https://sdvx.vsfe.me/static/img/1937_secondgame_tracy/1937_5_b.webp",
+        "levels": [
+            {
+                "level": 5,
+                "difficulty": "NOVICE"
+            },
+            {
+                "level": 11,
+                "difficulty": "ADVANCED"
+            },
+            {
+                "level": 14,
+                "difficulty": "EXHAUST"
+            },
+            {
+                "level": 17,
+                "difficulty": "MAXIMUM"
+            }
+        ],
+        "censored": false,
+        "eac": false,
+        "unlock": null,
+        "konasutePack": null
+    },
+    {
+        "songIdx": 2036,
+        "songName": "Realize／アニメ「Re:ゼロから始める異世界生活」より",
+        "artist": "鈴木このみ",
+        "dateString": "2023-06-22",
+        "imageUrl": "https://sdvx.vsfe.me/static/img/2036_realize_rezero/2036_1_b.webp",
+        "levels": [
+            {
+                "level": 3,
+                "difficulty": "NOVICE"
+            },
+            {
+                "level": 9,
+                "difficulty": "ADVANCED"
+            },
+            {
+                "level": 14,
+                "difficulty": "EXHAUST"
+            },
+            {
+                "level": 17,
+                "difficulty": "MAXIMUM"
+            }
+        ],
+        "censored": false,
+        "eac": false,
+        "unlock": null,
+        "konasutePack": null
+    },
+    {
+        "songIdx": 2035,
+        "songName": "Redo／アニメ「Re:ゼロから始める異世界生活」より",
+        "artist": "鈴木このみ",
+        "dateString": "2023-06-08",
+        "imageUrl": "https://sdvx.vsfe.me/static/img/2035_redo_rezero/2035_1_b.webp",
+        "levels": [
+            {
+                "level": 2,
+                "difficulty": "NOVICE"
+            },
+            {
+                "level": 10,
+                "difficulty": "ADVANCED"
+            },
+            {
+                "level": 14,
+                "difficulty": "EXHAUST"
+            },
+            {
+                "level": 17,
+                "difficulty": "MAXIMUM"
+            }
+        ],
+        "censored": false,
+        "eac": false,
+        "unlock": null,
+        "konasutePack": null
+    },
+    {
+        "songIdx": 1929,
+        "songName": "天穹のアルカナビット",
+        "artist": "打打だいず + Tanchiky + siromaru",
+        "dateString": "2023-06-01",
+        "imageUrl": "https://sdvx.vsfe.me/static/img/1929_tenkyuno_daizutanchisiromaru/1929_1_b.webp",
+        "levels": [
+            {
+                "level": 6,
+                "difficulty": "NOVICE"
+            },
+            {
+                "level": 13,
+                "difficulty": "ADVANCED"
+            },
+            {
+                "level": 16,
+                "difficulty": "EXHAUST"
+            },
+            {
+                "level": 18,
+                "difficulty": "MAXIMUM"
+            }
+        ],
+        "censored": false,
+        "eac": false,
+        "unlock": null,
+        "konasutePack": null
+    },
+    {
+        "songIdx": 1930,
+        "songName": "CadenzaMaiden",
+        "artist": "u-z feat.紫咲ほたる",
+        "dateString": "2023-06-01",
+        "imageUrl": "https://sdvx.vsfe.me/static/img/1930_cadenzamaiden_uz/1930_5_b.webp",
+        "levels": [
+            {
+                "level": 5,
+                "difficulty": "NOVICE"
+            },
+            {
+                "level": 12,
+                "difficulty": "ADVANCED"
+            },
+            {
+                "level": 16,
+                "difficulty": "EXHAUST"
+            },
+            {
+                "level": 18,
+                "difficulty": "MAXIMUM"
+            }
+        ],
+        "censored": false,
+        "eac": false,
+        "unlock": null,
+        "konasutePack": null
+    },
+    {
+        "songIdx": 1932,
+        "songName": "For.*tune",
+        "artist": "Capchii × low meow × Uzumaki",
+        "dateString": "2023-06-01",
+        "imageUrl": "https://sdvx.vsfe.me/static/img/1932_fortune_capchii/1932_5_b.webp",
+        "levels": [
+            {
+                "level": 5,
+                "difficulty": "NOVICE"
+            },
+            {
+                "level": 11,
+                "difficulty": "ADVANCED"
+            },
+            {
+                "level": 14,
+                "difficulty": "EXHAUST"
+            },
+            {
+                "level": 17,
+                "difficulty": "MAXIMUM"
+            }
+        ],
+        "censored": false,
+        "eac": false,
+        "unlock": null,
+        "konasutePack": null
+    },
+    {
+        "songIdx": 1933,
+        "songName": "機械仕掛けの魔法使い",
+        "artist": "Tsubusare BOZZ feat.madoka*",
+        "dateString": "2023-06-01",
+        "imageUrl": "https://sdvx.vsfe.me/static/img/1933_kikaijikake_tsubusarebozz/1933_1_b.webp",
+        "levels": [
+            {
+                "level": 4,
+                "difficulty": "NOVICE"
+            },
+            {
+                "level": 11,
+                "difficulty": "ADVANCED"
+            },
+            {
+                "level": 14,
+                "difficulty": "EXHAUST"
+            },
+            {
+                "level": 17,
+                "difficulty": "MAXIMUM"
+            }
+        ],
+        "censored": false,
+        "eac": false,
+        "unlock": null,
+        "konasutePack": null
+    },
+    {
+        "songIdx": 2031,
+        "songName": "マツヨイナイトバグ",
+        "artist": "ビートまりおとまろん",
+        "dateString": "2023-05-18",
+        "imageUrl": "https://sdvx.vsfe.me/static/img/2031_matsuyoi_beatmario/2031_1_b.webp",
+        "levels": [
+            {
+                "level": 5,
+                "difficulty": "NOVICE"
+            },
+            {
+                "level": 13,
+                "difficulty": "ADVANCED"
+            },
+            {
+                "level": 16,
+                "difficulty": "EXHAUST"
+            },
+            {
+                "level": 18,
+                "difficulty": "MAXIMUM"
+            }
+        ],
+        "censored": false,
+        "eac": false,
+        "unlock": null,
+        "konasutePack": null
+    },
+    {
+        "songIdx": 2032,
+        "songName": "Lost Emotion feat. nomico",
+        "artist": "Alstroemeria Records",
+        "dateString": "2023-05-18",
+        "imageUrl": "https://sdvx.vsfe.me/static/img/2032_lostemotion_alstroemeriarecords/2032_1_b.webp",
+        "levels": [
+            {
+                "level": 3,
+                "difficulty": "NOVICE"
+            },
+            {
+                "level": 11,
+                "difficulty": "ADVANCED"
+            },
+            {
+                "level": 14,
+                "difficulty": "EXHAUST"
+            },
+            {
+                "level": 17,
+                "difficulty": "MAXIMUM"
+            }
+        ],
+        "censored": false,
+        "eac": false,
+        "unlock": null,
+        "konasutePack": null
+    },
+    {
+        "songIdx": 2033,
+        "songName": "無意識レクイエム",
+        "artist": "森羅万象",
+        "dateString": "2023-05-18",
+        "imageUrl": "https://sdvx.vsfe.me/static/img/2033_muishiki_sinrabansyou/2033_1_b.webp",
+        "levels": [
+            {
+                "level": 4,
+                "difficulty": "NOVICE"
+            },
+            {
+                "level": 12,
+                "difficulty": "ADVANCED"
+            },
+            {
+                "level": 15,
+                "difficulty": "EXHAUST"
+            },
+            {
+                "level": 17,
+                "difficulty": "MAXIMUM"
+            }
+        ],
+        "censored": false,
+        "eac": false,
+        "unlock": null,
+        "konasutePack": null
+    },
+    {
+        "songIdx": 2034,
+        "songName": "無意識レクイエム (cosmobsp rmx)",
+        "artist": "cosMo＠暴走P (original arranged by 森羅万象)",
+        "dateString": "2023-05-18",
+        "imageUrl": "https://sdvx.vsfe.me/static/img/2034_muishikiremix_sinrabansyou/2034_1_b.webp",
+        "levels": [
+            {
+                "level": 6,
+                "difficulty": "NOVICE"
+            },
+            {
+                "level": 14,
+                "difficulty": "ADVANCED"
+            },
+            {
+                "level": 16,
+                "difficulty": "EXHAUST"
+            },
+            {
+                "level": 19,
+                "difficulty": "MAXIMUM"
+            }
+        ],
+        "censored": false,
+        "eac": false,
+        "unlock": "특수 해금",
+        "konasutePack": null
+    },
+    {
+        "songIdx": 1912,
+        "songName": "ENERGY SYNERGY MATRIX",
+        "artist": "Tanchiky",
+        "dateString": "2023-04-27",
+        "imageUrl": "https://sdvx.vsfe.me/static/img/1912_energysynergy_tanchiky/1912_1_b.webp",
+        "levels": [
+            {
+                "level": 5,
+                "difficulty": "NOVICE"
+            },
+            {
+                "level": 12,
+                "difficulty": "ADVANCED"
+            },
+            {
+                "level": 16,
+                "difficulty": "EXHAUST"
+            },
+            {
+                "level": 18,
+                "difficulty": "MAXIMUM"
+            }
+        ],
+        "censored": false,
+        "eac": false,
+        "unlock": null,
+        "konasutePack": null
+    },
+    {
+        "songIdx": 1913,
+        "songName": "Blossom",
+        "artist": "Synthion",
+        "dateString": "2023-04-27",
+        "imageUrl": "https://sdvx.vsfe.me/static/img/1913_blossom_synthion/1913_1_b.webp",
+        "levels": [
+            {
+                "level": 5,
+                "difficulty": "NOVICE"
+            },
+            {
+                "level": 12,
+                "difficulty": "ADVANCED"
+            },
+            {
+                "level": 16,
+                "difficulty": "EXHAUST"
+            },
+            {
+                "level": 18,
+                "difficulty": "MAXIMUM"
+            }
+        ],
+        "censored": false,
+        "eac": false,
+        "unlock": null,
+        "konasutePack": null
+    },
+    {
+        "songIdx": 1928,
+        "songName": "アルファ・スカイ",
+        "artist": "みーに feat. しろさきあや",
+        "dateString": "2023-04-27",
+        "imageUrl": "https://sdvx.vsfe.me/static/img/1928_alphasky_miini/1928_5_b.webp",
+        "levels": [
+            {
+                "level": 4,
+                "difficulty": "NOVICE"
+            },
+            {
+                "level": 13,
+                "difficulty": "ADVANCED"
+            },
+            {
+                "level": 15,
+                "difficulty": "EXHAUST"
+            },
+            {
+                "level": 17,
+                "difficulty": "MAXIMUM"
+            }
+        ],
+        "censored": false,
+        "eac": false,
+        "unlock": null,
+        "konasutePack": null
+    },
+    {
+        "songIdx": 1931,
+        "songName": "いでぃおで結構！",
+        "artist": "諸星なな feat.加藤はるか",
+        "dateString": "2023-04-27",
+        "imageUrl": "https://sdvx.vsfe.me/static/img/1931_idiodekekkou_moroboshinana/1931_1_b.webp",
+        "levels": [
+            {
+                "level": 4,
+                "difficulty": "NOVICE"
+            },
+            {
+                "level": 12,
+                "difficulty": "ADVANCED"
+            },
+            {
+                "level": 14,
+                "difficulty": "EXHAUST"
+            },
+            {
+                "level": 17,
+                "difficulty": "MAXIMUM"
+            }
+        ],
+        "censored": false,
+        "eac": false,
+        "unlock": null,
+        "konasutePack": null
+    },
+    {
+        "songIdx": 2000,
+        "songName": "Chocolate Planet (いるちょこRemix)",
+        "artist": "irucaice feat. ちょこ",
+        "dateString": "2023-04-27",
+        "imageUrl": "https://sdvx.vsfe.me/static/img/2000_chocoplarmx_irucaice/2000_1_b.webp",
+        "levels": [
+            {
+                "level": 5,
+                "difficulty": "NOVICE"
+            },
+            {
+                "level": 12,
+                "difficulty": "ADVANCED"
+            },
+            {
+                "level": 15,
+                "difficulty": "EXHAUST"
+            },
+            {
+                "level": 17,
+                "difficulty": "MAXIMUM"
+            }
+        ],
+        "censored": false,
+        "eac": false,
+        "unlock": null,
+        "konasutePack": null
+    },
+    {
+        "songIdx": 2017,
+        "songName": "Zero-Day Exploit(One-Day Fusion Mix)",
+        "artist": "庭師",
+        "dateString": "2023-04-27",
+        "imageUrl": "https://sdvx.vsfe.me/static/img/2017_zerodayrmx_niwashi/2017_1_b.webp",
+        "levels": [
+            {
+                "level": 6,
+                "difficulty": "NOVICE"
+            },
+            {
+                "level": 12,
+                "difficulty": "ADVANCED"
+            },
+            {
+                "level": 15,
+                "difficulty": "EXHAUST"
+            },
+            {
+                "level": 18,
+                "difficulty": "MAXIMUM"
+            }
+        ],
+        "censored": false,
+        "eac": false,
+        "unlock": null,
+        "konasutePack": null
+    },
+    {
+        "songIdx": 2025,
+        "songName": "Distorted Floor -Boosted-",
+        "artist": "M-UE vs. siromaru",
+        "dateString": "2023-04-27",
+        "imageUrl": "https://sdvx.vsfe.me/static/img/2025_distortedrmx_muesiromaru/2025_1_b.webp",
+        "levels": [
+            {
+                "level": 6,
+                "difficulty": "NOVICE"
+            },
+            {
+                "level": 13,
+                "difficulty": "ADVANCED"
+            },
+            {
+                "level": 16,
+                "difficulty": "EXHAUST"
+            },
+            {
+                "level": 18,
+                "difficulty": "MAXIMUM"
+            }
+        ],
+        "censored": false,
+        "eac": false,
+        "unlock": null,
+        "konasutePack": null
+    },
+    {
+        "songIdx": 2027,
+        "songName": "チェイスチェイスジョーカーズのうた",
+        "artist": "カギコ&チノン（CV:金元寿子&大空直美）",
+        "dateString": "2023-04-27",
+        "imageUrl": "https://sdvx.vsfe.me/static/img/2027_ccjnouta_kagikochinon/2027_1_b.webp",
+        "levels": [
+            {
+                "level": 4,
+                "difficulty": "NOVICE"
+            },
+            {
+                "level": 11,
+                "difficulty": "ADVANCED"
+            },
+            {
+                "level": 14,
+                "difficulty": "EXHAUST"
+            },
+            {
+                "level": 17,
+                "difficulty": "MAXIMUM"
+            }
+        ],
+        "censored": false,
+        "eac": false,
+        "unlock": null,
+        "konasutePack": null
+    },
+    {
+        "songIdx": 2028,
+        "songName": "Hello, Hologram",
+        "artist": "HIMEHINA",
+        "dateString": "2023-04-27",
+        "imageUrl": "https://sdvx.vsfe.me/static/img/2028_hellohologram_himehina/2028_1_b.webp",
+        "levels": [
+            {
+                "level": 4,
+                "difficulty": "NOVICE"
+            },
+            {
+                "level": 12,
+                "difficulty": "ADVANCED"
+            },
+            {
+                "level": 15,
+                "difficulty": "EXHAUST"
+            },
+            {
+                "level": 18,
+                "difficulty": "MAXIMUM"
+            }
+        ],
+        "censored": false,
+        "eac": false,
+        "unlock": null,
+        "konasutePack": null
+    },
+    {
+        "songIdx": 2029,
+        "songName": "WWW",
+        "artist": "HIMEHINA",
+        "dateString": "2023-04-27",
+        "imageUrl": "https://sdvx.vsfe.me/static/img/2029_www_himehina/2029_1_b.webp",
+        "levels": [
+            {
+                "level": 3,
+                "difficulty": "NOVICE"
+            },
+            {
+                "level": 10,
+                "difficulty": "ADVANCED"
+            },
+            {
+                "level": 14,
+                "difficulty": "EXHAUST"
+            },
+            {
+                "level": 17,
+                "difficulty": "MAXIMUM"
+            }
+        ],
+        "censored": false,
+        "eac": false,
+        "unlock": null,
+        "konasutePack": null
+    },
+    {
+        "songIdx": 2030,
+        "songName": "ヒバナ-Reloaded-",
+        "artist": "DECO*27",
+        "dateString": "2023-04-27",
+        "imageUrl": "https://sdvx.vsfe.me/static/img/2030_hibana_deco27/2030_1_b.webp",
+        "levels": [
+            {
+                "level": 2,
+                "difficulty": "NOVICE"
+            },
+            {
+                "level": 11,
+                "difficulty": "ADVANCED"
+            },
+            {
+                "level": 14,
+                "difficulty": "EXHAUST"
+            },
+            {
+                "level": 17,
+                "difficulty": "MAXIMUM"
+            }
+        ],
+        "censored": false,
+        "eac": false,
+        "unlock": null,
+        "konasutePack": null
+    },
+    {
+        "songIdx": 1983,
+        "songName": "quaver♪",
+        "artist": "Risk Junk",
+        "dateString": "2023-04-13",
+        "imageUrl": "https://sdvx.vsfe.me/static/img/1983_quaver_riskjunk/1983_1_b.webp",
+        "levels": [
+            {
+                "level": 6,
+                "difficulty": "NOVICE"
+            },
+            {
+                "level": 13,
+                "difficulty": "ADVANCED"
+            },
+            {
+                "level": 16,
+                "difficulty": "EXHAUST"
+            },
+            {
+                "level": 18,
+                "difficulty": "MAXIMUM"
+            }
+        ],
+        "censored": false,
+        "eac": false,
+        "unlock": null,
+        "konasutePack": null
+    },
+    {
+        "songIdx": 1984,
+        "songName": "Aerial Skydive",
+        "artist": "Dirty Androids",
+        "dateString": "2023-04-13",
+        "imageUrl": "https://sdvx.vsfe.me/static/img/1984_aerialskydive_dirtyandroids/1984_1_b.webp",
+        "levels": [
+            {
+                "level": 5,
+                "difficulty": "NOVICE"
+            },
+            {
+                "level": 12,
+                "difficulty": "ADVANCED"
+            },
+            {
+                "level": 15,
+                "difficulty": "EXHAUST"
+            },
+            {
+                "level": 17,
+                "difficulty": "MAXIMUM"
+            }
+        ],
+        "censored": false,
+        "eac": false,
+        "unlock": null,
+        "konasutePack": null
+    },
+    {
+        "songIdx": 1985,
+        "songName": "リリーゼと炎龍レーヴァテイン",
+        "artist": "黒猫ダンジョン",
+        "dateString": "2023-04-13",
+        "imageUrl": "https://sdvx.vsfe.me/static/img/1985_liliezeto_kuronekod/1985_1_b.webp",
+        "levels": [
+            {
+                "level": 6,
+                "difficulty": "NOVICE"
+            },
+            {
+                "level": 13,
+                "difficulty": "ADVANCED"
+            },
+            {
+                "level": 16,
+                "difficulty": "EXHAUST"
+            },
+            {
+                "level": 18,
+                "difficulty": "MAXIMUM"
+            }
+        ],
+        "censored": false,
+        "eac": false,
+        "unlock": null,
+        "konasutePack": null
+    },
+    {
+        "songIdx": 1986,
+        "songName": "FUJIMORI -祭- FESTIVAL",
+        "artist": "VENUS",
+        "dateString": "2023-04-13",
+        "imageUrl": "https://sdvx.vsfe.me/static/img/1986_fujimorimatsuri_venus/1986_1_b.webp",
+        "levels": [
+            {
+                "level": 3,
+                "difficulty": "NOVICE"
+            },
+            {
+                "level": 11,
+                "difficulty": "ADVANCED"
+            },
+            {
+                "level": 14,
+                "difficulty": "EXHAUST"
+            },
+            {
+                "level": 17,
+                "difficulty": "MAXIMUM"
+            }
+        ],
+        "censored": false,
+        "eac": false,
+        "unlock": null,
+        "konasutePack": null
+    },
+    {
+        "songIdx": 1987,
+        "songName": "Black or Red?",
+        "artist": "コスモドライバー  join. shully & Nimo",
+        "dateString": "2023-04-13",
+        "imageUrl": "https://sdvx.vsfe.me/static/img/1987_blackorred_cosmodriver/1987_1_b.webp",
+        "levels": [
+            {
+                "level": 5,
+                "difficulty": "NOVICE"
+            },
+            {
+                "level": 12,
+                "difficulty": "ADVANCED"
+            },
+            {
+                "level": 15,
+                "difficulty": "EXHAUST"
+            },
+            {
+                "level": 17,
+                "difficulty": "MAXIMUM"
+            }
+        ],
+        "censored": false,
+        "eac": false,
+        "unlock": null,
+        "konasutePack": null
+    },
+    {
+        "songIdx": 1919,
+        "songName": "HALO",
+        "artist": "Tatsunoshin",
+        "dateString": "2023-03-30",
+        "imageUrl": "https://sdvx.vsfe.me/static/img/1919_halo_tatsunoshin/1919_1_b.webp",
+        "levels": [
+            {
+                "level": 7,
+                "difficulty": "NOVICE"
+            },
+            {
+                "level": 14,
+                "difficulty": "ADVANCED"
+            },
+            {
+                "level": 17,
+                "difficulty": "EXHAUST"
+            },
+            {
+                "level": 19,
+                "difficulty": "MAXIMUM"
+            }
+        ],
+        "censored": false,
+        "eac": false,
+        "unlock": "BLASTER GATE",
+        "konasutePack": null
+    },
+    {
+        "songIdx": 1920,
+        "songName": "S(TAR)²☆pistol",
+        "artist": "Mono.",
+        "dateString": "2023-03-30",
+        "imageUrl": "https://sdvx.vsfe.me/static/img/1920_startarpistol_mono/1920_3_b.webp",
+        "levels": [
+            {
+                "level": 6,
+                "difficulty": "NOVICE"
+            },
+            {
+                "level": 13,
+                "difficulty": "ADVANCED"
+            },
+            {
+                "level": 16,
+                "difficulty": "EXHAUST"
+            },
+            {
+                "level": 18,
+                "difficulty": "MAXIMUM"
+            }
+        ],
+        "censored": false,
+        "eac": false,
+        "unlock": "BLASTER GATE",
+        "konasutePack": null
+    },
+    {
+        "songIdx": 1921,
+        "songName": "赫焉のヴァルキュリア -Ragnarøk-",
+        "artist": "ryhki",
+        "dateString": "2023-03-30",
+        "imageUrl": "https://sdvx.vsfe.me/static/img/1921_ragnarok_ryhki/1921_1_b.webp",
+        "levels": [
+            {
+                "level": 7,
+                "difficulty": "NOVICE"
+            },
+            {
+                "level": 14,
+                "difficulty": "ADVANCED"
+            },
+            {
+                "level": 17,
+                "difficulty": "EXHAUST"
+            },
+            {
+                "level": 19,
+                "difficulty": "MAXIMUM"
+            }
+        ],
+        "censored": false,
+        "eac": false,
+        "unlock": "BLASTER GATE",
+        "konasutePack": null
+    },
+    {
+        "songIdx": 1922,
+        "songName": "CUDDLIE CUDDLIE",
+        "artist": "ゆんゆん",
+        "dateString": "2023-03-30",
+        "imageUrl": "https://sdvx.vsfe.me/static/img/1922_cudliecudlie_yunyun/1922_1_b.webp",
+        "levels": [
+            {
+                "level": 5,
+                "difficulty": "NOVICE"
+            },
+            {
+                "level": 12,
+                "difficulty": "ADVANCED"
+            },
+            {
+                "level": 15,
+                "difficulty": "EXHAUST"
+            },
+            {
+                "level": 17,
+                "difficulty": "MAXIMUM"
+            }
+        ],
+        "censored": false,
+        "eac": false,
+        "unlock": "BLASTER GATE",
+        "konasutePack": null
+    },
+    {
+        "songIdx": 1923,
+        "songName": "Brave Power Leader 《 = Voltage = 》",
+        "artist": "概念",
+        "dateString": "2023-03-30",
+        "imageUrl": "https://sdvx.vsfe.me/static/img/1923_bravepower_gainen/1923_1_b.webp",
+        "levels": [
+            {
+                "level": 6,
+                "difficulty": "NOVICE"
+            },
+            {
+                "level": 13,
+                "difficulty": "ADVANCED"
+            },
+            {
+                "level": 16,
+                "difficulty": "EXHAUST"
+            },
+            {
+                "level": 18,
+                "difficulty": "MAXIMUM"
+            }
+        ],
+        "censored": false,
+        "eac": false,
+        "unlock": "BLASTER GATE",
+        "konasutePack": null
+    },
+    {
+        "songIdx": 1924,
+        "songName": "零天視",
+        "artist": "隣の庭は青い(庭師+Aoi)",
+        "dateString": "2023-03-30",
+        "imageUrl": "https://sdvx.vsfe.me/static/img/1924_reitenshi_tonarinoniwa/1924_5_b.webp",
+        "levels": [
+            {
+                "level": 6,
+                "difficulty": "NOVICE"
+            },
+            {
+                "level": 13,
+                "difficulty": "ADVANCED"
+            },
+            {
+                "level": 16,
+                "difficulty": "EXHAUST"
+            },
+            {
+                "level": 18,
+                "difficulty": "MAXIMUM"
+            }
+        ],
+        "censored": false,
+        "eac": false,
+        "unlock": "BLASTER GATE",
+        "konasutePack": null
+    },
+    {
+        "songIdx": 1925,
+        "songName": "ステラ・イミグレーション",
+        "artist": "後藤 feat. リリカ",
+        "dateString": "2023-03-30",
+        "imageUrl": "https://sdvx.vsfe.me/static/img/1925_stellaimi_gotou/1925_1_b.webp",
+        "levels": [
+            {
+                "level": 5,
+                "difficulty": "NOVICE"
+            },
+            {
+                "level": 12,
+                "difficulty": "ADVANCED"
+            },
+            {
+                "level": 15,
+                "difficulty": "EXHAUST"
+            },
+            {
+                "level": 17,
+                "difficulty": "MAXIMUM"
+            }
+        ],
+        "censored": false,
+        "eac": false,
+        "unlock": "BLASTER GATE",
+        "konasutePack": null
+    },
+    {
+        "songIdx": 1926,
+        "songName": "Garland",
+        "artist": "ミハイル + K.key",
+        "dateString": "2023-03-30",
+        "imageUrl": "https://sdvx.vsfe.me/static/img/1926_garland_mihairukkey/1926_1_b.webp",
+        "levels": [
+            {
+                "level": 6,
+                "difficulty": "NOVICE"
+            },
+            {
+                "level": 12,
+                "difficulty": "ADVANCED"
+            },
+            {
+                "level": 15,
+                "difficulty": "EXHAUST"
+            },
+            {
+                "level": 18,
+                "difficulty": "MAXIMUM"
+            }
+        ],
+        "censored": false,
+        "eac": false,
+        "unlock": "BLASTER GATE",
+        "konasutePack": null
+    },
+    {
+        "songIdx": 1938,
+        "songName": "SuddeИDeath",
+        "artist": "xi vs. モリモリあつし",
+        "dateString": "2023-03-30",
+        "imageUrl": "https://sdvx.vsfe.me/static/img/1938_suddendeath_ximorimori/1938_5_b.webp",
+        "levels": [
+            {
+                "level": 8,
+                "difficulty": "NOVICE"
+            },
+            {
+                "level": 15,
+                "difficulty": "ADVANCED"
+            },
+            {
+                "level": 18,
+                "difficulty": "EXHAUST"
+            },
+            {
+                "level": 20,
+                "difficulty": "MAXIMUM"
+            }
+        ],
+        "censored": false,
+        "eac": false,
+        "unlock": "BLASTER GATE",
+        "konasutePack": null
+    },
+    {
+        "songIdx": 1883,
+        "songName": "少年リップルズ",
+        "artist": "常盤ゆう",
+        "dateString": "2023-03-16",
+        "imageUrl": "https://sdvx.vsfe.me/static/img/1883_shounenripples_tokiwayu/1883_1_b.webp",
+        "levels": [
+            {
+                "level": 6,
+                "difficulty": "NOVICE"
+            },
+            {
+                "level": 13,
+                "difficulty": "ADVANCED"
+            },
+            {
+                "level": 16,
+                "difficulty": "EXHAUST"
+            },
+            {
+                "level": 18,
+                "difficulty": "MAXIMUM"
+            }
+        ],
+        "censored": false,
+        "eac": false,
+        "unlock": null,
+        "konasutePack": null
+    },
+    {
+        "songIdx": 1884,
+        "songName": "[E]",
+        "artist": "dj MAX STEROID",
+        "dateString": "2023-03-16",
+        "imageUrl": "https://sdvx.vsfe.me/static/img/1884_kakkoe_djmaxsteroid/1884_1_b.webp",
+        "levels": [
+            {
+                "level": 5,
+                "difficulty": "NOVICE"
+            },
+            {
+                "level": 11,
+                "difficulty": "ADVANCED"
+            },
+            {
+                "level": 14,
+                "difficulty": "EXHAUST"
+            },
+            {
+                "level": 17,
+                "difficulty": "MAXIMUM"
+            }
+        ],
+        "censored": false,
+        "eac": false,
+        "unlock": null,
+        "konasutePack": null
+    },
+    {
+        "songIdx": 1885,
+        "songName": "アガット",
+        "artist": "Bazole",
+        "dateString": "2023-03-16",
+        "imageUrl": "https://sdvx.vsfe.me/static/img/1885_agete_bazole/1885_1_b.webp",
+        "levels": [
+            {
+                "level": 6,
+                "difficulty": "NOVICE"
+            },
+            {
+                "level": 13,
+                "difficulty": "ADVANCED"
+            },
+            {
+                "level": 16,
+                "difficulty": "EXHAUST"
+            },
+            {
+                "level": 18,
+                "difficulty": "MAXIMUM"
+            }
+        ],
+        "censored": false,
+        "eac": false,
+        "unlock": null,
+        "konasutePack": null
+    },
+    {
+        "songIdx": 1886,
+        "songName": "Welcome to the Mosh Pit",
+        "artist": "lapix",
+        "dateString": "2023-03-16",
+        "imageUrl": "https://sdvx.vsfe.me/static/img/1886_moshpit_lapix/1886_1_b.webp",
+        "levels": [
+            {
+                "level": 5,
+                "difficulty": "NOVICE"
+            },
+            {
+                "level": 12,
+                "difficulty": "ADVANCED"
+            },
+            {
+                "level": 15,
+                "difficulty": "EXHAUST"
+            },
+            {
+                "level": 18,
+                "difficulty": "MAXIMUM"
+            }
+        ],
+        "censored": false,
+        "eac": false,
+        "unlock": null,
+        "konasutePack": null
+    }
+]

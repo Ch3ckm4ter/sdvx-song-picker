@@ -1,0 +1,434 @@
+[
+    {
+        "songIdx": 11,
+        "songName": "ガッテンだ!! Novoiski Remix",
+        "artist": "ノボイスキ",
+        "dateString": "2012-01-18",
+        "imageUrl": "https://sdvx.vsfe.me/static/img/0011_gattenda_noboisuki/0011_3_b.webp",
+        "levels": [
+            {
+                "level": 3,
+                "difficulty": "NOVICE"
+            },
+            {
+                "level": 7,
+                "difficulty": "ADVANCED"
+            },
+            {
+                "level": 11,
+                "difficulty": "EXHAUST"
+            }
+        ],
+        "censored": false,
+        "eac": false,
+        "unlock": null,
+        "konasutePack": null
+    },
+    {
+        "songIdx": 12,
+        "songName": "ふしぎなくすり いっきのみっくす",
+        "artist": "ゆうゆ",
+        "dateString": "2012-01-18",
+        "imageUrl": "https://sdvx.vsfe.me/static/img/0012_fushiginakusuri_yuuyu/0012_3_b.webp",
+        "levels": [
+            {
+                "level": 3,
+                "difficulty": "NOVICE"
+            },
+            {
+                "level": 6,
+                "difficulty": "ADVANCED"
+            },
+            {
+                "level": 11,
+                "difficulty": "EXHAUST"
+            }
+        ],
+        "censored": false,
+        "eac": false,
+        "unlock": null,
+        "konasutePack": null
+    },
+    {
+        "songIdx": 13,
+        "songName": "Love♡Shine わんだふるmix",
+        "artist": "ARM (IOSYS) feat. 一ノ瀬月琉 (monotone)",
+        "dateString": "2012-01-18",
+        "imageUrl": "https://sdvx.vsfe.me/static/img/0013_loveshine_arm/0013_3_b.webp",
+        "levels": [
+            {
+                "level": 4,
+                "difficulty": "NOVICE"
+            },
+            {
+                "level": 7,
+                "difficulty": "ADVANCED"
+            },
+            {
+                "level": 13,
+                "difficulty": "EXHAUST"
+            }
+        ],
+        "censored": false,
+        "eac": false,
+        "unlock": null,
+        "konasutePack": null
+    },
+    {
+        "songIdx": 14,
+        "songName": "Evans VolteX Pf arrange",
+        "artist": "cosMo＠暴走P",
+        "dateString": "2012-01-18",
+        "imageUrl": "https://sdvx.vsfe.me/static/img/0014_evans_cosmo/0014_4_b.webp",
+        "levels": [
+            {
+                "level": 5,
+                "difficulty": "NOVICE"
+            },
+            {
+                "level": 9,
+                "difficulty": "ADVANCED"
+            },
+            {
+                "level": 15,
+                "difficulty": "EXHAUST"
+            },
+            {
+                "level": 18,
+                "difficulty": "HEAVENLY"
+            }
+        ],
+        "censored": false,
+        "eac": false,
+        "unlock": null,
+        "konasutePack": null
+    },
+    {
+        "songIdx": 15,
+        "songName": "jet coaster☆girl sasakure.UK tRiCkStAr Remix",
+        "artist": "sasakure.UK feat. mirto",
+        "dateString": "2012-01-18",
+        "imageUrl": "https://sdvx.vsfe.me/static/img/0015_jetcoastergirl_3390uk/0015_3_b.webp",
+        "levels": [
+            {
+                "level": 1,
+                "difficulty": "NOVICE"
+            },
+            {
+                "level": 5,
+                "difficulty": "ADVANCED"
+            },
+            {
+                "level": 9,
+                "difficulty": "EXHAUST"
+            }
+        ],
+        "censored": false,
+        "eac": false,
+        "unlock": null,
+        "konasutePack": null
+    },
+    {
+        "songIdx": 16,
+        "songName": "Ha･lle･lu･jah",
+        "artist": "SOUND HOLIC feat. Nana Takahashi",
+        "dateString": "2012-01-18",
+        "imageUrl": "https://sdvx.vsfe.me/static/img/0016_hallelujah_soundholic/0016_3_b.webp",
+        "levels": [
+            {
+                "level": 4,
+                "difficulty": "NOVICE"
+            },
+            {
+                "level": 7,
+                "difficulty": "ADVANCED"
+            },
+            {
+                "level": 13,
+                "difficulty": "EXHAUST"
+            },
+            {
+                "level": 15,
+                "difficulty": "INFINITE"
+            }
+        ],
+        "censored": false,
+        "eac": false,
+        "unlock": null,
+        "konasutePack": null
+    },
+    {
+        "songIdx": 17,
+        "songName": "dilemma",
+        "artist": "豚乙女",
+        "dateString": "2012-01-18",
+        "imageUrl": "https://sdvx.vsfe.me/static/img/0017_dilemma_butaotome/0017_3_b.webp",
+        "levels": [
+            {
+                "level": 2,
+                "difficulty": "NOVICE"
+            },
+            {
+                "level": 6,
+                "difficulty": "ADVANCED"
+            },
+            {
+                "level": 10,
+                "difficulty": "EXHAUST"
+            }
+        ],
+        "censored": false,
+        "eac": false,
+        "unlock": null,
+        "konasutePack": null
+    },
+    {
+        "songIdx": 18,
+        "songName": "Iterator",
+        "artist": "yanagi",
+        "dateString": "2012-01-18",
+        "imageUrl": "https://sdvx.vsfe.me/static/img/0018_iterator_yanagi/0018_3_b.webp",
+        "levels": [
+            {
+                "level": 2,
+                "difficulty": "NOVICE"
+            },
+            {
+                "level": 8,
+                "difficulty": "ADVANCED"
+            },
+            {
+                "level": 10,
+                "difficulty": "EXHAUST"
+            }
+        ],
+        "censored": false,
+        "eac": false,
+        "unlock": null,
+        "konasutePack": null
+    },
+    {
+        "songIdx": 19,
+        "songName": "「月風魔伝」龍骨鬼戦 yks Remix",
+        "artist": "yuukiss",
+        "dateString": "2012-01-18",
+        "imageUrl": "https://sdvx.vsfe.me/static/img/0019_geppumaden_yuukiss/0019_4_b.webp",
+        "levels": [
+            {
+                "level": 5,
+                "difficulty": "NOVICE"
+            },
+            {
+                "level": 8,
+                "difficulty": "ADVANCED"
+            },
+            {
+                "level": 13,
+                "difficulty": "EXHAUST"
+            },
+            {
+                "level": 16,
+                "difficulty": "INFINITE"
+            }
+        ],
+        "censored": false,
+        "eac": false,
+        "unlock": null,
+        "konasutePack": null
+    },
+    {
+        "songIdx": 21,
+        "songName": "SurVALI",
+        "artist": "YM",
+        "dateString": "2012-01-18",
+        "imageUrl": "https://sdvx.vsfe.me/static/img/0021_survali_ym/0021_3_b.webp",
+        "levels": [
+            {
+                "level": 3,
+                "difficulty": "NOVICE"
+            },
+            {
+                "level": 8,
+                "difficulty": "ADVANCED"
+            },
+            {
+                "level": 11,
+                "difficulty": "EXHAUST"
+            }
+        ],
+        "censored": false,
+        "eac": false,
+        "unlock": null,
+        "konasutePack": null
+    },
+    {
+        "songIdx": 22,
+        "songName": "バタフライキャット",
+        "artist": "daniwell",
+        "dateString": "2012-01-18",
+        "imageUrl": "https://sdvx.vsfe.me/static/img/0022_butterflycat_daniwell/0022_3_b.webp",
+        "levels": [
+            {
+                "level": 3,
+                "difficulty": "NOVICE"
+            },
+            {
+                "level": 8,
+                "difficulty": "ADVANCED"
+            },
+            {
+                "level": 13,
+                "difficulty": "EXHAUST"
+            },
+            {
+                "level": 15,
+                "difficulty": "INFINITE"
+            }
+        ],
+        "censored": false,
+        "eac": false,
+        "unlock": null,
+        "konasutePack": null
+    },
+    {
+        "songIdx": 23,
+        "songName": "ナナイロ",
+        "artist": "otetsu",
+        "dateString": "2012-01-18",
+        "imageUrl": "https://sdvx.vsfe.me/static/img/0023_nanairo_otetsu/0023_4_b.webp",
+        "levels": [
+            {
+                "level": 2,
+                "difficulty": "NOVICE"
+            },
+            {
+                "level": 7,
+                "difficulty": "ADVANCED"
+            },
+            {
+                "level": 10,
+                "difficulty": "EXHAUST"
+            },
+            {
+                "level": 13,
+                "difficulty": "INFINITE"
+            }
+        ],
+        "censored": false,
+        "eac": false,
+        "unlock": null,
+        "konasutePack": null
+    },
+    {
+        "songIdx": 24,
+        "songName": "西日暮里の踊り",
+        "artist": "家の裏でマンボウが死んでるP",
+        "dateString": "2012-01-18",
+        "imageUrl": "https://sdvx.vsfe.me/static/img/0024_nishinippori_manbo/0024_3_b.webp",
+        "levels": [
+            {
+                "level": 4,
+                "difficulty": "NOVICE"
+            },
+            {
+                "level": 7,
+                "difficulty": "ADVANCED"
+            },
+            {
+                "level": 12,
+                "difficulty": "EXHAUST"
+            },
+            {
+                "level": 16,
+                "difficulty": "INFINITE"
+            }
+        ],
+        "censored": false,
+        "eac": false,
+        "unlock": null,
+        "konasutePack": null
+    },
+    {
+        "songIdx": 25,
+        "songName": "Rebellious stage",
+        "artist": "Dios/シグナルP",
+        "dateString": "2012-01-18",
+        "imageUrl": "https://sdvx.vsfe.me/static/img/0025_rebellious_stage_dios/0025_4_b.webp",
+        "levels": [
+            {
+                "level": 2,
+                "difficulty": "NOVICE"
+            },
+            {
+                "level": 6,
+                "difficulty": "ADVANCED"
+            },
+            {
+                "level": 10,
+                "difficulty": "EXHAUST"
+            },
+            {
+                "level": 13,
+                "difficulty": "INFINITE"
+            }
+        ],
+        "censored": false,
+        "eac": false,
+        "unlock": null,
+        "konasutePack": null
+    },
+    {
+        "songIdx": 26,
+        "songName": "ごりらがいるんだ",
+        "artist": "ピノキオP",
+        "dateString": "2012-01-18",
+        "imageUrl": "https://sdvx.vsfe.me/static/img/0026_gorilla_pinocchio/0026_4_b.webp",
+        "levels": [
+            {
+                "level": 4,
+                "difficulty": "NOVICE"
+            },
+            {
+                "level": 8,
+                "difficulty": "ADVANCED"
+            },
+            {
+                "level": 12,
+                "difficulty": "EXHAUST"
+            },
+            {
+                "level": 15,
+                "difficulty": "INFINITE"
+            }
+        ],
+        "censored": false,
+        "eac": false,
+        "unlock": null,
+        "konasutePack": null
+    },
+    {
+        "songIdx": 27,
+        "songName": "とある少年の一日",
+        "artist": "蝶々P",
+        "dateString": "2012-01-18",
+        "imageUrl": "https://sdvx.vsfe.me/static/img/0027_shonen_chocho/0027_3_b.webp",
+        "levels": [
+            {
+                "level": 3,
+                "difficulty": "NOVICE"
+            },
+            {
+                "level": 7,
+                "difficulty": "ADVANCED"
+            },
+            {
+                "level": 12,
+                "difficulty": "EXHAUST"
+            }
+        ],
+        "censored": false,
+        "eac": false,
+        "unlock": null,
+        "konasutePack": null
+    }
+]
