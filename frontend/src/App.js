@@ -76,7 +76,7 @@ function App() {
             <div className="loading">SEARCHING...</div>
           ) : chart ? (
             <img 
-              src={chart.censored ? '/c.png' : chart.image} 
+              src={chart.censored ? process.env.PUBLIC_URL + '/c.png' : chart.image} 
               alt={chart.title} 
               className="jacket-img" 
             />

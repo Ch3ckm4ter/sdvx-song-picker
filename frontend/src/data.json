@@ -4228,7 +4228,7 @@
         "difficulty": "MAXIMUM"
       }
     ],
-    "censored": false,
+    "censored": true,
     "eac": false,
     "unlock": null,
     "konasutePack": null
@@ -20311,7 +20311,7 @@
         "difficulty": "GRAVITY"
       }
     ],
-    "censored": false,
+    "censored": true,
     "eac": false,
     "unlock": null,
     "konasutePack": null
